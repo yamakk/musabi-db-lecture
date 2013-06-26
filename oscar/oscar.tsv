@@ -1,0 +1,504 @@
+num	year	budget	budget_o	order	gp	boxoffice_o	bo	cpi	link	title	poster
+398	2012	120	120	1	FALSE	608.862905	608.862905	227.663	http://en.wikipedia.org/wiki/Life_of_Pi_(film)	Life of Pi	2012-nm-LifeofPi.jpg
+397	2012	61	61	2	FALSE	437.710466	437.710466	227.663	http://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film)	Les Misérables	2012-nm-LesMisrables.jpg
+501	2012	100	100	3	FALSE	423.9836	423.9836	227.663	http://en.wikipedia.org/wiki/Django_Unchained	Django Unchained	2012-nm-DjangoUnchained.jpg
+362	2012	65	65	4	FALSE	275.29345	275.29345	227.663	http://en.wikipedia.org/wiki/Lincoln_(2012_film)	Lincoln	2012-nm-Lincoln.jpg
+399	2012	21	21	5	FALSE	236.412453	236.412453	227.663	http://en.wikipedia.org/wiki/Silver_Linings_Playbook	Silver Linings Playbook	2012-nm-SilverLiningsPlaybook.jpg
+411	2012	44.5	44.5	0	TRUE	232.324128	232.324128	227.663	http://en.wikipedia.org/wiki/Argo_(2012_film)	Argo	2012-gp-Argo.jpg
+400	2012	40	40	6	FALSE	108.720716	108.720716	227.663	http://en.wikipedia.org/wiki/Zero_Dark_Thirty	Zero Dark Thirty	2012-nm-ZeroDarkThirty.jpg
+492	2012	1.8	1.8	7	FALSE	21.080058	21.080058	227.663	http://en.wikipedia.org/wiki/Beasts_of_the_Southern_Wild	Beasts of the Southern Wild	2012-nm-BeastsoftheSouthernWild.jpg
+396	2012	8.9	8.9	8	FALSE	19.835665	19.835665	227.663	http://en.wikipedia.org/wiki/Amour_(2012_film)	Amour	2012-nm-Amour.jpg
+203	2011	25	25	1	FALSE	211.608112	211.608112	220.223	http://en.wikipedia.org/wiki/The_Help_(film)	The Help	2011-nm-TheHelp.jpg
+188	2011	160	ERR  150 to  170 million 	2	FALSE	185.77016	185.77016	220.223	http://en.wikipedia.org/wiki/Hugo_(film)	Hugo	2011-nm-Hugo.jpg
+361	2011	66	66	3	FALSE	177.584879	177.584879	220.223	http://en.wikipedia.org/wiki/War_Horse_(film)	War Horse	2011-nm-WarHorse.jpg
+365	2011	20	20	4	FALSE	177.243185	177.243185	220.223	http://en.wikipedia.org/wiki/The_Descendants_(film)	The Descendants	2011-nm-TheDescendants.jpg
+187	2011	17	17	5	FALSE	151.119219	151.119219	220.223	http://en.wikipedia.org/wiki/Midnight_in_Paris	Midnight in Paris	2011-nm-MidnightinParis.jpg
+77	2011	15	15	0	TRUE	133.432856	133.432856	220.223	http://en.wikipedia.org/wiki/The_Artist_(film)	The Artist	2011-gp-TheArtist.png
+500	2011	50	50	6	FALSE	110.206216	110.206216	220.223	http://en.wikipedia.org/wiki/Moneyball_(film)	Moneyball	2011-nm-Moneyball.jpg
+395	2011	32	32	7	FALSE	54.303319	54.303319	220.223	http://en.wikipedia.org/wiki/The_Tree_of_Life_(film)	The Tree of Life	2011-nm-TheTreeofLife.jpg
+394	2011	40	40	8	FALSE	47.847881	47.847881	220.223	http://en.wikipedia.org/wiki/Extremely_Loud_and_Incredibly_Close_(film)	Extremely Loud and Incredibly Close	2011-nm-ExtremelyLoudandIncrediblyClose.jpg
+360	2010	200	200	1	FALSE	1063.171911	1063.171911	218.011	http://en.wikipedia.org/wiki/Toy_Story_3	Toy Story 3	2010-nm-ToyStory3.jpg
+359	2010	160	160	2	FALSE	825.532764	825.532764	218.011	http://en.wikipedia.org/wiki/Inception	Inception	2010-nm-Inception.jpg
+393	2010	15	ERR £8 million ( 15 million) 	0	TRUE	414.211549	414.211549	218.011	http://en.wikipedia.org/wiki/The_King%27s_Speech	The King's Speech	2010-gp-TheKingsSpeech.jpg
+91	2010	13	13	3	FALSE	329.398046	329.398046	218.011	http://en.wikipedia.org/wiki/Black_Swan_(film)	Black Swan	2010-nm-BlackSwan.jpg
+202	2010	38	38	4	FALSE	251.123791	251.123791	218.011	http://en.wikipedia.org/wiki/True_Grit_(2010_film)	True Grit	2010-nm-TrueGrit.jpg
+186	2010	40	40	5	FALSE	224.920315	224.920315	218.011	http://en.wikipedia.org/wiki/The_Social_Network	The Social Network	2010-nm-TheSocialNetwork.jpg
+185	2010	25	25	6	FALSE	129.190869	129.190869	218.011	http://en.wikipedia.org/wiki/The_Fighter_(2010_film)	The Fighter	2010-nm-TheFighter.jpg
+201	2010	18	18	7	FALSE	60.738797	60.738797	218.011	http://en.wikipedia.org/wiki/127_Hours	127 Hours	2010-nm-127Hours.jpg
+8	2010	4	4	8	FALSE	34.70585	34.70585	218.011	http://en.wikipedia.org/wiki/The_Kids_Are_All_Right_(film)	The Kids Are All Right	2010-nm-TheKidsAreAllRight.jpg
+76	2010	2	2	9	FALSE	13.831503	13.831503	218.011	http://en.wikipedia.org/wiki/Winter%27s_Bone	Winter's Bone	2010-nm-WintersBone.jpg
+488	2009	246	ERR  237 million  9 million+ (re-release) 	1	FALSE	2782.275172	2782.275172	212.709	http://en.wikipedia.org/wiki/Avatar_(2009_film)	Avatar	2009-nm-Avatar.jpg
+490	2009	175	175	2	FALSE	731.342744	731.342744	212.709	http://en.wikipedia.org/wiki/Up_(2009_film)	Up	2009-nm-Up.jpg
+489	2009	70	70	3	FALSE	321.455689	321.455689	212.709	http://en.wikipedia.org/wiki/Inglourious_Basterds	Inglourious Basterds	2009-nm-InglouriousBasterds.jpg
+6	2009	29	29	4	FALSE	309.208309	309.208309	212.709	http://en.wikipedia.org/wiki/The_Blind_Side_(film)	The Blind Side	2009-nm-TheBlindSide.jpg
+200	2009	30	30	5	FALSE	210.816205	210.816205	212.709	http://en.wikipedia.org/wiki/District_9	District 9	2009-nm-District9.jpg
+491	2009	25	25	6	FALSE	166.842739	166.842739	212.709	http://en.wikipedia.org/wiki/Up_in_the_Air_(2009_film)	Up in the Air	2009-nm-UpintheAir.jpg
+184	2009	10	10	7	FALSE	63.647833	63.647833	212.709	http://en.wikipedia.org/wiki/Precious_(film)	Precious	2009-nm-Precious.jpg
+358	2009	15	15	0	TRUE	49.230772	49.230772	212.709	http://en.wikipedia.org/wiki/The_Hurt_Locker	The Hurt Locker	2009-gp-TheHurtLocker.jpg
+7	2009	7	7	8	FALSE	31.312437	31.312437	212.709	http://en.wikipedia.org/wiki/A_Serious_Man	A Serious Man	2009-nm-ASeriousMan.jpg
+183	2009	7.5	7.5	9	FALSE	26.096852	26.096852	212.709	http://en.wikipedia.org/wiki/An_Education	An Education	2009-nm-AnEducation.jpg
+487	2008	15	15	0	TRUE	377.910544	377.910544	213.528	http://en.wikipedia.org/wiki/Slumdog_Millionaire	Slumdog Millionaire	2008-gp-SlumdogMillionaire.jpg
+392	2008	150	150	1	FALSE	333.932083	333.932083	213.528	http://en.wikipedia.org/wiki/The_Curious_Case_of_Benjamin_Button_(film)	The Curious Case of Benjamin Button	2008-nm-TheCuriousCaseofBenjaminButton.jpg
+5	2008	32	32	2	FALSE	108.901967	108.901967	213.528	http://en.wikipedia.org/wiki/The_Reader_(2008_film)	The Reader	2008-nm-TheReader.jpg
+90	2008	20	20	3	FALSE	54.586584	54.586584	213.528	http://en.wikipedia.org/wiki/Milk_(film)	Milk	2008-nm-Milk.jpg
+182	2008	25	25	4	FALSE	27.426335	27.426335	213.528	http://en.wikipedia.org/wiki/Frost/Nixon_(film)	Frost/Nixon	2008-nm-FrostNixon.jpg
+180	2007	6.8	ERR  6.5 – 7 million 	1	FALSE	231.411584	231.411584	202.416	http://en.wikipedia.org/wiki/Juno_(film)	Juno	2007-nm-Juno.jpg
+486	2007	25	25	0	TRUE	171.627166	171.627166	202.416	http://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film)	No Country for Old Men	2007-gp-NoCountryforOldMen.jpg
+199	2007	30	30	2	FALSE	129.266061	129.266061	202.416	http://en.wikipedia.org/wiki/Atonement_(film)	Atonement	2007-nm-Atonement.jpg
+75	2007	25	25	3	FALSE	92.991835	92.991835	202.416	http://en.wikipedia.org/wiki/Michael_Clayton_(film)	Michael Clayton	2007-nm-MichaelClayton.jpg
+181	2007	25	25	4	FALSE	76.181545	76.181545	202.416	http://en.wikipedia.org/wiki/There_Will_Be_Blood	There Will Be Blood	2007-nm-ThereWillBeBlood.jpg
+178	2006	90	90	0	TRUE	289.847354	289.847354	203.9	http://en.wikipedia.org/wiki/The_Departed	The Departed	2006-gp-TheDeparted.jpg
+4	2006	25	25	1	FALSE	135.330182	135.330182	203.9	http://en.wikipedia.org/wiki/Babel_(film)	Babel	2006-nm-Babel.jpg
+198	2006	15	ERR £9.8 million ( 15 million)	2	FALSE	ERR £77.865176 ( 123.384128) 	123.384	203.9	http://en.wikipedia.org/wiki/The_Queen_(film)	The Queen	2006-nm-TheQueen.jpg
+179	2006	8	ERR US 8 million	3	FALSE	100.523181	100.523181	203.9	http://en.wikipedia.org/wiki/Little_Miss_Sunshine	Little Miss Sunshine	2006-nm-LittleMissSunshine.jpg
+197	2006	19	19	4	FALSE	68.673228	68.673228	203.9	http://en.wikipedia.org/wiki/Letters_from_Iwo_Jima	Letters from Iwo Jima	2006-nm-LettersfromIwoJima.jpg
+357	2005	14	14	1	FALSE	178.062759	178.062759	191.8	http://en.wikipedia.org/wiki/Brokeback_Mountain	Brokeback Mountain	2005-nm-BrokebackMountain.jpg
+367	2005	77	77	2	FALSE	130.358911	130.358911	191.8	http://en.wikipedia.org/wiki/Munich_(film)	Munich	2005-nm-Munich.jpg
+391	2005	6.5	6.5	0	TRUE	98.410061	98.410061	191.8	http://en.wikipedia.org/wiki/Crash_(2004_film)	Crash	2005-gp-Crash.jpg
+74	2005	7.5	7.5	3	FALSE	54.641191	54.641191	191.8	http://en.wikipedia.org/wiki/Good_Night,_and_Good_Luck	Good Night, and Good Luck	2005-nm-GoodNightandGoodLuck.jpg
+73	2005	7	7	4	FALSE	49.233161	49.233161	191.8	http://en.wikipedia.org/wiki/Capote_(film)	Capote	2005-nm-Capote.jpg
+2	2004	30	30	0	TRUE	216.763646	216.763646	188.0	http://en.wikipedia.org/wiki/Million_Dollar_Baby	Million Dollar Baby	2004-gp-MillionDollarBaby.jpg
+3	2004	110	110	1	FALSE	213.741459	213.741459	188.0	http://en.wikipedia.org/wiki/The_Aviator_(2004_film)	The Aviator	2004-nm-TheAviator.jpg
+72	2004	40	40	2	FALSE	124.731534	124.731534	188.0	http://en.wikipedia.org/wiki/Ray_(film)	Ray	2004-nm-Ray.jpg
+38	2004	25	25	3	FALSE	118.676606	118.676606	188.0	http://en.wikipedia.org/wiki/Finding_Neverland	Finding Neverland	2004-nm-FindingNeverland.jpg
+218	2004	16	16	4	FALSE	109.502303	109.502303	188.0	http://en.wikipedia.org/wiki/Sideways_(film)	Sideways	2004-nm-Sideways.jpg
+485	2003	94	94	0	TRUE	1119.929521	1119.929521	183.1	http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King	The Lord of the Rings: The Return of the King	2003-gp-TheLordoftheRingsTheReturnoftheKing.jpg
+36	2003	150	150	1	FALSE	212.011111	212.011111	183.1	http://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World	Master and Commander: The Far Side of the World	2003-nm-MasterandCommanderTheFarSideoftheWorld.png
+37	2003	30	30	2	FALSE	156.82202	156.82202	183.1	http://en.wikipedia.org/wiki/Mystic_River_(film)	Mystic River	2003-nm-MysticRiver.jpg
+390	2003	87	87	3	FALSE	148.336445	148.336445	183.1	http://en.wikipedia.org/wiki/Seabiscuit_(film)	Seabiscuit	2003-nm-Seabiscuit.jpg
+356	2003	4	4	4	FALSE	119.723856	119.723856	183.1	http://en.wikipedia.org/wiki/Lost_in_Translation_(film)	Lost in Translation	2003-nm-LostinTranslation.jpg
+355	2002	94	94	1	FALSE	926.047111	926.047111	179.9	http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers	The Lord of the Rings: The Two Towers	2002-nm-TheLordoftheRingsTheTwoTowers.jpg
+410	2002	45	45	0	TRUE	306.776732	306.776732	179.9	http://en.wikipedia.org/wiki/Chicago_(2002_film)	Chicago	2002-gp-Chicago.jpg
+388	2002	97	97	2	FALSE	193.772504	193.772504	179.9	http://en.wikipedia.org/wiki/Gangs_of_New_York	Gangs of New York	2002-nm-GangsofNewYork.jpg
+389	2002	35	35	3	FALSE	120.072577	120.072577	179.9	http://en.wikipedia.org/wiki/The_Pianist_(2002_film)	The Pianist	2002-nm-ThePianist.jpg
+35	2002	25	25	4	FALSE	108.846072	108.846072	179.9	http://en.wikipedia.org/wiki/The_Hours_(film)	The Hours	2002-nm-TheHours.jpg
+354	2001	93	93	1	FALSE	871.530324	871.530324	178.0	http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring	The Lord of the Rings: The Fellowship of the Ring	2001-nm-TheLordoftheRingsTheFellowshipoftheRing.jpg
+386	2001	58	58	0	TRUE	313.542341	313.542341	178.0	http://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)	A Beautiful Mind	2001-gp-ABeautifulMind.jpg
+387	2001	52	52	2	FALSE	179.213434	179.213434	178.0	http://en.wikipedia.org/wiki/Moulin_Rouge!	Moulin Rouge!	2001-nm-MoulinRouge.jpg
+353	2001	19.8	19.8	3	FALSE	87.754044	87.754044	178.0	http://en.wikipedia.org/wiki/Gosford_Park	Gosford Park	2001-nm-GosfordPark.jpg
+83	2001	1.7	1.7	4	FALSE	43.368779	43.368779	178.0	http://en.wikipedia.org/wiki/In_the_Bedroom	In the Bedroom	2001-nm-IntheBedroom.jpg
+350	2000	103	103	0	TRUE	457.640427	457.640427	171.2	http://en.wikipedia.org/wiki/Gladiator_(2000_film)	Gladiator	2000-gp-Gladiator.jpg
+34	2000	51	51	1	FALSE	256.271286	256.271286	171.2	http://en.wikipedia.org/wiki/Erin_Brockovich_(film)	Erin Brockovich	2000-nm-ErinBrockovich.jpg
+351	2000	17	17	2	FALSE	213.525736	213.525736	171.2	http://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon	Crouching Tiger, Hidden Dragon	2000-nm-CrouchingTigerHiddenDragon.jpg
+352	2000	46	46	3	FALSE	207.515725	207.515725	171.2	http://en.wikipedia.org/wiki/Traffic_(2000_film)	Traffic	2000-nm-Traffic.jpg
+82	2000	25	25	4	FALSE	152.699946	152.699946	171.2	http://en.wikipedia.org/wiki/Chocolat_(2000_film)	Chocolat	2000-nm-Chocolat.jpg
+177	1999	40	None	1	FALSE	None	672.806	167.9	http://en.wikipedia.org/wiki/The_Sixth_Sense	The Sixth Sense	1999-nm-TheSixthSense.jpg
+484	1999	15	15	0	TRUE	356.296601	356.296601	167.9	http://en.wikipedia.org/wiki/American_Beauty_(film)	American Beauty	1999-gp-AmericanBeauty.jpg
+217	1999	60	60	2	FALSE	290.701374	290.701374	167.9	http://en.wikipedia.org/wiki/The_Green_Mile_(film)	The Green Mile	1999-nm-TheGreenMile.jpg
+71	1999	24	24	3	FALSE	88.545092	88.545092	167.9	http://en.wikipedia.org/wiki/The_Cider_House_Rules_(film)	The Cider House Rules	1999-nm-TheCiderHouseRules.jpg
+33	1999	90	90	4	FALSE	60.289912	60.289912	167.9	http://en.wikipedia.org/wiki/The_Insider_(film)	The Insider	1999-nm-TheInsider.jpg
+349	1998	70	70	1	FALSE	481.840909	481.840909	163.4	http://en.wikipedia.org/wiki/Saving_Private_Ryan	Saving Private Ryan	1998-nm-SavingPrivateRyan.jpg
+348	1998	25	25	0	TRUE	289.317794	289.317794	163.4	http://en.wikipedia.org/wiki/Shakespeare_in_Love	Shakespeare in Love	1998-gp-ShakespeareinLove.jpg
+176	1998	20	20	2	FALSE	229.163264	229.163264	163.4	http://en.wikipedia.org/wiki/Life_Is_Beautiful	Life Is Beautiful	1998-nm-LifeIsBeautiful.jpg
+216	1998	52	52	3	FALSE	98.126565	98.126565	163.4	http://en.wikipedia.org/wiki/The_Thin_Red_Line_(1998_film)	The Thin Red Line	1998-nm-TheThinRedLine.jpg
+32	1998	30	30	4	FALSE	82.150642	82.150642	163.4	http://en.wikipedia.org/wiki/Elizabeth_(film)	Elizabeth	1998-nm-Elizabeth.jpg
+483	1997	200	200	0	TRUE	2185.372302	2185.372302	160.0	http://en.wikipedia.org/wiki/Titanic_(1997_film)	Titanic	1997-gp-Titanic.jpg
+30	1997	50	50	1	FALSE	314.178011	314.178011	160.0	http://en.wikipedia.org/wiki/As_Good_as_It_Gets	As Good as It Gets	1997-nm-AsGoodasItGets.jpg
+31	1997	3.5	ERR £3 million ( 3.5 million) 	2	FALSE	ERR £160.049344( 257.850122) 	257.850112	160.0	http://en.wikipedia.org/wiki/The_Full_Monty	The Full Monty	1997-nm-TheFullMonty.jpg
+70	1997	10	10	3	FALSE	225.933435	225.933435	160.0	http://en.wikipedia.org/wiki/Good_Will_Hunting	Good Will Hunting	1997-nm-GoodWillHunting.jpg
+347	1997	35	35	4	FALSE	126.21694	126.21694	160.0	http://en.wikipedia.org/wiki/L.A._Confidential_(film)	L.A. Confidential	1997-nm-LAConfidential.jpg
+29	1996	50	50	1	FALSE	273.552592	273.552592	158.6	http://en.wikipedia.org/wiki/Jerry_Maguire	Jerry Maguire	1996-nm-JerryMaguire.jpg
+27	1996	27	27	0	TRUE	231.976425	231.976425	158.6	http://en.wikipedia.org/wiki/The_English_Patient_(film)	The English Patient	1996-gp-TheEnglishPatient.jpg
+28	1996	7	7	2	FALSE	60.611975	60.611975	158.6	http://en.wikipedia.org/wiki/Fargo_(film)	Fargo	1996-nm-Fargo.jpg
+69	1996	6	ERR A 6 million 	3	FALSE	35.89233	35.89233	158.6	http://en.wikipedia.org/wiki/Shine_(film)	Shine	1996-nm-Shine.jpg
+502	1996	4.5	4.5	4	FALSE	13.417292	13.417292	158.6	http://en.wikipedia.org/wiki/Secrets_%26_Lies_(film)	Secrets & Lies	1996-nm-SecretsLies.jpg
+346	1995	52	52	1	FALSE	355.237933	355.237933	153.2	http://en.wikipedia.org/wiki/Apollo_13_(film)	Apollo 13	1995-nm-Apollo13.jpg
+26	1995	30	30	2	FALSE	254.13491	254.13491	153.2	http://en.wikipedia.org/wiki/Babe_(film)	Babe	1995-nm-Babe.jpg
+345	1995	72	72	0	TRUE	210.409945	210.409945	153.2	http://en.wikipedia.org/wiki/Braveheart	Braveheart	1995-gp-Braveheart.jpg
+482	1995	16	16	3	FALSE	134.993774	134.993774	153.2	http://en.wikipedia.org/wiki/Sense_and_Sensibility_(film)	Sense and Sensibility	1995-nm-SenseandSensibility.jpg
+81	1995	None	None	4	FALSE	21.848932	21.848932	153.2	http://en.wikipedia.org/wiki/Il_Postino	The Postman (Il Postino)	1995-nm-ThePostmanIlPostino.jpg
+479	1994	55	55	0	TRUE	677.387716	677.387716	147.2	http://en.wikipedia.org/wiki/Forrest_Gump	Forrest Gump	1994-gp-ForrestGump.jpg
+68	1994	4.4	4.4	1	FALSE	245.700832	245.700832	147.2	http://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral	Four Weddings and a Funeral	1994-nm-FourWeddingsandaFuneral.jpg
+480	1994	8.5	8.5	2	FALSE	213.928762	213.928762	147.2	http://en.wikipedia.org/wiki/Pulp_Fiction	Pulp Fiction	1994-nm-PulpFiction.jpg
+481	1994	25	25	3	FALSE	28.341469	28.341469	147.2	http://en.wikipedia.org/wiki/The_Shawshank_Redemption	The Shawshank Redemption	1994-nm-TheShawshankRedemption.jpg
+80	1994	31	31	4	FALSE	24.822619	24.822619	147.2	http://en.wikipedia.org/wiki/Quiz_Show_(film)	Quiz Show	1994-nm-QuizShow.jpg
+478	1993	44	44	1	FALSE	368.87576	368.87576	144.2	http://en.wikipedia.org/wiki/The_Fugitive_(1993_film)	The Fugitive	1993-nm-TheFugitive.jpg
+344	1993	22	22	0	TRUE	321.306305	321.306305	144.2	http://en.wikipedia.org/wiki/Schindler%27s_List	Schindler's List	1993-gp-SchindlersList.jpg
+196	1993	13	13	2	FALSE	65.796862	65.796862	144.2	http://en.wikipedia.org/wiki/In_the_Name_of_the_Father_(film)	In the Name of the Father	1993-nm-IntheNameoftheFather.jpg
+67	1993	15	15	3	FALSE	63.954968	63.954968	144.2	http://en.wikipedia.org/wiki/The_Remains_of_the_Day_(film)	The Remains of the Day	1993-nm-TheRemainsoftheDay.jpg
+66	1993	7	7	4	FALSE	40.157856	40.157856	144.2	http://en.wikipedia.org/wiki/The_Piano	The Piano	1993-nm-ThePiano.jpg
+65	1992	40	40	1	FALSE	243.240178	243.240178	140.5	http://en.wikipedia.org/wiki/A_Few_Good_Men	A Few Good Men	1992-nm-AFewGoodMen.jpg
+64	1992	14.4	14.4	0	TRUE	159.157447	159.157447	140.5	http://en.wikipedia.org/wiki/Unforgiven	Unforgiven	1992-gp-Unforgiven.jpg
+175	1992	31	31	2	FALSE	134.095253	134.095253	140.5	http://en.wikipedia.org/wiki/Scent_of_a_Woman_(1992_film)	Scent of a Woman	1992-nm-ScentofaWoman.jpg
+174	1992	ERR £2.3 million	ERR £2.3 million	3	FALSE	62.548947	62.548947	140.5	http://en.wikipedia.org/wiki/The_Crying_Game	The Crying Game	1992-nm-TheCryingGame.jpg
+79	1992	8	8	4	FALSE	25.966555	25.966555	140.5	http://en.wikipedia.org/wiki/Howards_End_(film)	Howards End	1992-nm-HowardsEnd.jpg
+221	1991	25	25	1	FALSE	424.96762	424.96762	134.6	http://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film)	Beauty and the Beast	1991-nm-BeautyandtheBeast.jpg
+62	1991	19	19	0	TRUE	272.742922	272.742922	134.6	http://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)	The Silence of the Lambs	1991-gp-TheSilenceoftheLambs.jpg
+477	1991	40	40	2	FALSE	205.4	205.4	134.6	http://en.wikipedia.org/wiki/JFK_(film)	JFK	1991-nm-JFK.png
+63	1991	30	30	3	FALSE	110	110	134.6	http://en.wikipedia.org/wiki/The_Prince_of_Tides	The Prince of Tides	1991-nm-ThePrinceofTides.jpg
+173	1991	30	30	4	FALSE	49.114016	49.114016	134.6	http://en.wikipedia.org/wiki/Bugsy	Bugsy	1991-nm-Bugsy.jpg
+78	1990	22	22	1	FALSE	505.702588	505.702588	129.2	http://en.wikipedia.org/wiki/Ghost_(1990_film)	Ghost	1990-nm-Ghost.jpg
+60	1990	22	22	0	TRUE	424.208848	424.208848	129.2	http://en.wikipedia.org/wiki/Dances_with_Wolves	Dances with Wolves	1990-gp-DanceswithWolves.jpg
+476	1990	ERR US 54 million	ERR US 54 million	2	FALSE	136.766062	136.766062	129.2	http://en.wikipedia.org/wiki/The_Godfather_Part_III	The Godfather Part III	1990-nm-TheGodfatherPartIII.jpg
+61	1990	31	31	3	FALSE	52.096475	52.096475	129.2	http://en.wikipedia.org/wiki/Awakenings	Awakenings	1990-nm-Awakenings.jpg
+343	1990	25	25	4	FALSE	46.836394	46.836394	129.2	http://en.wikipedia.org/wiki/Goodfellas	Goodfellas	1990-nm-Goodfellas.jpg
+59	1989	16.4	16.4	1	FALSE	235.860116	235.860116	121.1	http://en.wikipedia.org/wiki/Dead_Poets_Society	Dead Poets Society	1989-nm-DeadPoetsSociety.jpg
+364	1989	14	14	2	FALSE	232.343002	232.343002	121.1	http://en.wikipedia.org/wiki/Born_on_the_Fourth_of_July_(film)	Born on the Fourth of July	1989-nm-BornontheFourthofJuly.jpg
+58	1989	7.5	7.5	0	TRUE	145.793296	145.793296	121.1	http://en.wikipedia.org/wiki/Driving_Miss_Daisy	Driving Miss Daisy	1989-gp-DrivingMissDaisy.jpg
+172	1989	31	31	3	FALSE	84.431625	84.431625	121.1	http://en.wikipedia.org/wiki/Field_of_Dreams	Field of Dreams	1989-nm-FieldofDreams.jpg
+195	1989	ERR £0.6	ERR £0.6	4	FALSE	14.743391	14.743391	121.1	http://en.wikipedia.org/wiki/My_Left_Foot_(film)	My Left Foot	1989-nm-MyLeftFoot.jpg
+39	1988	ERR US 14 million	ERR US 14 million	4	FALSE	ERR  34.7 million (USA)	ERR  34.7 million (USA)	119.8	http://en.wikipedia.org/wiki/Dangerous_Liaisons	Dangerous Liaisons	1988-nm-DangerousLiaisons.jpg
+56	1988	15	15	3	FALSE	ERR  34.603943 (USA)	ERR  34.603943 (USA)	119.8	http://en.wikipedia.org/wiki/Mississippi_Burning	Mississippi Burning	1988-nm-MississippiBurning.jpg
+342	1988	None	None	2	FALSE	ERR  32.632093 (United States)	ERR  32.632093 (United States)	119.8	http://en.wikipedia.org/wiki/The_Accidental_Tourist_(film)	The Accidental Tourist	1988-nm-TheAccidentalTourist.jpg
+55	1988	25	25	0	TRUE	354.825435	354.825435	119.8	http://en.wikipedia.org/wiki/Rain_Man	Rain Man	1988-gp-RainMan.jpg
+57	1988	28.6	28.6	1	FALSE	ERR  102.953112 (Worldwide)	102.953	119.8	http://en.wikipedia.org/wiki/Working_Girl	Working Girl	1988-nm-WorkingGirl.jpg
+171	1987	14	14	1	FALSE	320.145693	320.145693	111.2	http://en.wikipedia.org/wiki/Fatal_Attraction	Fatal Attraction	1987-nm-FatalAttraction.jpg
+9	1987	15	15	2	FALSE	80.640528	80.640528	111.2	http://en.wikipedia.org/wiki/Moonstruck	Moonstruck	1987-nm-Moonstruck.jpg
+170	1987	15	15	3	FALSE	67.331309	67.331309	111.2	http://en.wikipedia.org/wiki/Broadcast_News_(film)	Broadcast News	1987-nm-BroadcastNews.jpg
+169	1987	23.8	23.8	0	TRUE	43.98423	43.98423	111.2	http://en.wikipedia.org/wiki/The_Last_Emperor	The Last Emperor	1987-gp-TheLastEmperor.jpg
+1	1987	3	3	4	FALSE	10.02112	10.02112	111.2	http://en.wikipedia.org/wiki/Hope_and_Glory_(film)	Hope and Glory	1987-nm-HopeandGlory.jpg
+167	1986	2	2	4	FALSE	ERR  31.85308(North America)	ERR  31.85308(North America)	109.3	http://en.wikipedia.org/wiki/Children_of_a_Lesser_God	Children of a Lesser God	1986-nm-ChildrenofaLesserGod.jpg
+193	1986	24.5	24.5	3	FALSE	ERR  17.218023 (United States)	ERR  17.218023 (United States)	109.3	http://en.wikipedia.org/wiki/The_Mission_(1986_film)	The Mission	1986-nm-TheMission.jpg
+166	1986	6	6	0	TRUE	138.530565	138.530565	109.3	http://en.wikipedia.org/wiki/Platoon_(film)	Platoon	1986-gp-Platoon.jpg
+168	1986	6.4	6.4	1	FALSE	59	59	109.3	http://en.wikipedia.org/wiki/Hannah_and_Her_Sisters	Hannah and Her Sisters	1986-nm-HannahandHerSisters.jpg
+194	1986	3	3	2	FALSE	20.966644	20.966644	109.3	http://en.wikipedia.org/wiki/A_Room_with_a_View_(1986_film)	A Room with a View	1986-nm-ARoomwithaView.jpg
+165	1985	12	12	4	FALSE	ERR  68.706993 (US) 	ERR  68.706993 (US) 	107.6	http://en.wikipedia.org/wiki/Witness_(1985_film)	Witness	1985-nm-Witness.jpg
+89	1985	16	16	3	FALSE	ERR  26.657534 (US) 	ERR  26.657534 (US) 	107.6	http://en.wikipedia.org/wiki/Prizzi%27s_Honor	Prizzi's Honor	1985-nm-PrizzisHonor.jpg
+192	1985	28	28	0	TRUE	128.499205	128.499205	107.6	http://en.wikipedia.org/wiki/Out_of_Africa_(film)	Out of Africa	1985-gp-OutofAfrica.jpg
+41	1985	15	15	1	FALSE	98.467863	98.467863	107.6	http://en.wikipedia.org/wiki/The_Color_Purple_(film)	The Color Purple	1985-nm-TheColorPurple.jpg
+25	1985	None	None	2	FALSE	17.005229	17.005229	107.6	http://en.wikipedia.org/wiki/Kiss_of_the_Spider_Woman_(film)	Kiss of the Spider Woman	1985-nm-KissoftheSpiderWoman.jpg
+191	1984	ERR £17 million 	ERR £17 million 	4	FALSE	ERR  27.187653 (US) 	ERR  27.187653 (US) 	105.0	http://en.wikipedia.org/wiki/A_Passage_to_India_(film)	A Passage to India	1984-nm-APassagetoIndia.jpg
+164	1984	18	18	0	TRUE	51.973029	51.973029	105.0	http://en.wikipedia.org/wiki/Amadeus_(film)	Amadeus	1984-gp-Amadeus.jpg
+24	1984	9.5	9.5	1	FALSE	34.901614	34.901614	105.0	http://en.wikipedia.org/wiki/Places_in_the_Heart	Places in the Heart	1984-nm-PlacesintheHeart.jpg
+87	1984	14.4	14.4	2	FALSE	34.700291	34.700291	105.0	http://en.wikipedia.org/wiki/The_Killing_Fields_(film)	The Killing Fields	1984-nm-TheKillingFields.jpg
+88	1984	ERR Theatrical release poster	ERR Theatrical release poster	3	FALSE	21.821347	21.821347	105.0	http://en.wikipedia.org/wiki/A_Soldier%27s_Story	A Soldier's Story	1984-nm-ASoldiersStory.jpg
+163	1983	27	27	4	FALSE	ERR  21.192102 (USA) 	ERR  21.192102 (USA) 	97.9	http://en.wikipedia.org/wiki/The_Right_Stuff_(film)	The Right Stuff	1983-nm-TheRightStuff.jpg
+85	1983	8	8	0	TRUE	108.423489	108.423489	97.9	http://en.wikipedia.org/wiki/Terms_of_Endearment	Terms of Endearment	1983-gp-TermsofEndearment.jpg
+86	1983	None	None	1	FALSE	56.342711	56.342711	97.9	http://en.wikipedia.org/wiki/The_Big_Chill_(film)	The Big Chill	1983-nm-TheBigChill.jpg
+341	1983	4.5	4.5	2	FALSE	8.44	8.44	97.9	http://en.wikipedia.org/wiki/Tender_Mercies	Tender Mercies	1983-nm-TenderMercies.jpg
+162	1983	None	None	3	FALSE	5.310748	5.310748	97.9	http://en.wikipedia.org/wiki/The_Dresser	The Dresser	1983-nm-TheDresser.jpg
+381	1982	ERR GBP£13 million 	ERR GBP£13 million 	0	TRUE	ERR  52.767889(North America) 	ERR  52.767889(North America) 	94.5	http://en.wikipedia.org/wiki/Gandhi_(film)	Gandhi	1982-gp-Gandhi.png
+340	1982	10.5	10.5	1	FALSE	792.910554	792.910554	94.5	http://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial	E.T. the Extra-Terrestrial	1982-nm-ETtheExtraTerrestrial.jpg
+160	1982	21	21	2	FALSE	177.2	177.2	94.5	http://en.wikipedia.org/wiki/Tootsie	Tootsie	1982-nm-Tootsie.jpg
+161	1982	16	16	3	FALSE	53.97725	53.97725	94.5	http://en.wikipedia.org/wiki/The_Verdict	The Verdict	1982-nm-TheVerdict.jpg
+159	1982	5	5	4	FALSE	16	16	94.5	http://en.wikipedia.org/wiki/Missing_(film)	Missing	1982-nm-Missing.jpg
+475	1981	18	18	1	FALSE	389.925971	389.925971	91.6	http://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark	Raiders of the Lost Ark	1981-nm-RaidersoftheLostArk.jpg
+339	1981	15	15	2	FALSE	119.285432	119.285432	91.6	http://en.wikipedia.org/wiki/On_Golden_Pond_(1981_film)	On Golden Pond	1981-nm-OnGoldenPond.jpg
+385	1981	ERR £3 million 	ERR £3 million 	0	TRUE	58.972904	58.972904	91.6	http://en.wikipedia.org/wiki/Chariots_of_Fire	Chariots of Fire	1981-gp-ChariotsofFire.jpg
+158	1981	32	32	3	FALSE	50	50	91.6	http://en.wikipedia.org/wiki/Reds_(film)	Reds	1981-nm-Reds.jpg
+40	1981	7.2	7.2	4	FALSE	12.729675	12.729675	91.6	http://en.wikipedia.org/wiki/Atlantic_City_(1980_film)	Atlantic City	1981-nm-AtlanticCity.jpg
+338	1980	35	35	3	FALSE	None	None	81.45	http://en.wikipedia.org/wiki/Tess_(film)	Tess	1980-nm-Tess.jpg
+157	1980	5	5	4	FALSE	ERR  26.010864 (USA) 	ERR  26.010864 (USA) 	81.45	http://en.wikipedia.org/wiki/The_Elephant_Man_(film)	The Elephant Man	1980-nm-TheElephantMan.jpg
+156	1980	15	15	1	FALSE	67.182787	67.182787	81.45	http://en.wikipedia.org/wiki/Coal_Miner%27s_Daughter	Coal Miner's Daughter	1980-nm-CoalMinersDaughter.jpg
+155	1980	6	6	0	TRUE	54.766923	54.766923	81.45	http://en.wikipedia.org/wiki/Ordinary_People	Ordinary People	1980-gp-OrdinaryPeople.jpg
+474	1980	18	18	2	FALSE	23.380203	23.380203	81.45	http://en.wikipedia.org/wiki/Raging_Bull	Raging Bull	1980-nm-RagingBull.jpg
+152	1979	8	8	0	TRUE	106.26	106.26	71.5	http://en.wikipedia.org/wiki/Kramer_vs._Kramer	Kramer vs. Kramer	1979-gp-KramervsKramer.jpg
+336	1979	31.5	31.5	1	FALSE	83.471511	83.471511	71.5	http://en.wikipedia.org/wiki/Apocalypse_Now	Apocalypse Now	1979-nm-ApocalypseNow.jpg
+153	1979	12	12	2	FALSE	37.823676	37.823676	71.5	http://en.wikipedia.org/wiki/All_That_Jazz_(film)	All That Jazz	1979-nm-AllThatJazz.jpg
+337	1979	4.5	4.5	3	FALSE	22.228	22.228	71.5	http://en.wikipedia.org/wiki/Norma_Rae	Norma Rae	1979-nm-NormaRae.jpg
+154	1979	2.3	2.3	4	FALSE	20	20	71.5	http://en.wikipedia.org/wiki/Breaking_Away	Breaking Away	1979-nm-BreakingAway.jpg
+150	1978	15	15	1	FALSE	98.8	98.8	63.9	http://en.wikipedia.org/wiki/Heaven_Can_Wait_(1978_film)	Heaven Can Wait	1978-nm-HeavenCanWait.jpg
+334	1978	15	15	0	TRUE	50	50	63.9	http://en.wikipedia.org/wiki/The_Deer_Hunter	The Deer Hunter	1978-gp-TheDeerHunter.jpg
+151	1978	2.3	2.3	2	FALSE	35	35	63.9	http://en.wikipedia.org/wiki/Midnight_Express_(film)	Midnight Express	1978-nm-MidnightExpress.jpg
+380	1978	3	3	3	FALSE	32.653905	32.653905	63.9	http://en.wikipedia.org/wiki/Coming_Home_(1978_film)	Coming Home	1978-nm-ComingHome.jpg
+335	1978	2.515	2.515	4	FALSE	24	24	63.9	http://en.wikipedia.org/wiki/An_Unmarried_Woman	An Unmarried Woman	1978-nm-AnUnmarriedWoman.jpg
+0	1977	None	None	4	FALSE	ERR  33.6  16.8(rentals)	ERR  33.6  16.8(rentals)	59.1	http://en.wikipedia.org/wiki/The_Turning_Point_(1977_film)	The Turning Point	1977-nm-TheTurningPoint.jpeg
+473	1977	11	11	1	FALSE	ERR  775.398007(Worldwide) 	775.39	59.1	http://en.wikipedia.org/wiki/Star_Wars_Episode_IV:_A_New_Hope	Star Wars	1977-nm-StarWars.jpg
+149	1977	None	None	2	FALSE	83.7	83.7	59.1	http://en.wikipedia.org/wiki/The_Goodbye_Girl	The Goodbye Girl	1977-nm-TheGoodbyeGirl.jpg
+379	1977	4	4	0	TRUE	38.251425	38.251425	59.1	http://en.wikipedia.org/wiki/Annie_Hall	Annie Hall	1977-gp-AnnieHall.jpg
+333	1977	7.84	7.84	3	FALSE	20.7144	20.7144	59.1	http://en.wikipedia.org/wiki/Julia_(1977_film)	Julia	1977-nm-Julia.jpg
+471	1976	None	None	3	FALSE	None	None	57.9	http://en.wikipedia.org/wiki/Bound_for_Glory_(film)	Bound for Glory	1976-nm-BoundforGlory.jpg
+147	1976	8.5	8.5	4	FALSE	ERR  70.6 (United States)	ERR  70.6 (United States)	57.9	http://en.wikipedia.org/wiki/All_the_President%27s_Men_(film)	All the President's Men	1976-nm-AllthePresidentsMen.jpg
+470	1976	1	1	0	TRUE	225	225	57.9	http://en.wikipedia.org/wiki/Rocky	Rocky	1976-gp-Rocky.jpg
+472	1976	1.3	1.3	1	FALSE	28.262574	28.262574	57.9	http://en.wikipedia.org/wiki/Taxi_Driver	Taxi Driver	1976-nm-TaxiDriver.jpg
+148	1976	3.8	3.8	2	FALSE	23.689877	23.689877	57.9	http://en.wikipedia.org/wiki/Network_(film)	Network	1976-nm-Network.jpg
+144	1975	11	11	4	FALSE	ERR  20.0(US)  2.8(Germany) 9.5(rentals)	ERR  20.0(US)  2.8(Germany) 9.5(rentals)	52.5	http://en.wikipedia.org/wiki/Barry_Lyndon	Barry Lyndon	1975-nm-BarryLyndon.jpg
+469	1975	9	9	1	FALSE	470.653	470.653	52.5	http://en.wikipedia.org/wiki/Jaws_(film)	Jaws	1975-nm-Jaws.jpg
+143	1975	3	3	0	TRUE	108.981275	108.981275	52.5	http://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)	One Flew Over the Cuckoo's Nest	1975-gp-OneFlewOvertheCuckoosNest.jpg
+145	1975	1.8	1.8	2	FALSE	50	50	52.5	http://en.wikipedia.org/wiki/Dog_Day_Afternoon	Dog Day Afternoon	1975-nm-DogDayAfternoon.jpg
+146	1975	2.2	2.2	3	FALSE	9.984123	9.984123	52.5	http://en.wikipedia.org/wiki/Nashville_(film)	Nashville	1975-nm-Nashville.jpg
+141	1974	None	None	4	FALSE	None	None	47.2	http://en.wikipedia.org/wiki/Lenny_(film)	Lenny	1974-nm-Lenny.jpg
+468	1974	13	13	0	TRUE	193	193	47.2	http://en.wikipedia.org/wiki/The_Godfather_Part_II	The Godfather Part II	1974-gp-TheGodfatherPartII.jpg
+142	1974	14.265	14.265	1	FALSE	139.7	139.7	47.2	http://en.wikipedia.org/wiki/The_Towering_Inferno	The Towering Inferno	1974-nm-TheToweringInferno.jpg
+139	1974	6	6	2	FALSE	29.2	29.2	47.2	http://en.wikipedia.org/wiki/Chinatown_(1974_film)	Chinatown	1974-nm-Chinatown.jpg
+140	1974	1.6	1.6	3	FALSE	4.42	4.42	47.2	http://en.wikipedia.org/wiki/The_Conversation	The Conversation	1974-nm-TheConversation.jpg
+332	1973	0.4	0.4	4	FALSE	ERR SEK 2.130705 (Sweden) 1.5 million (US) 	ERR SEK 2.130705 (Sweden) 1.5 million (US) 	42.9	http://en.wikipedia.org/wiki/Cries_and_Whispers	Cries and Whispers	1973-nm-CriesandWhispers.jpg
+92	1973	10.497444	10.497444	1	FALSE	441.071011	441.071011	42.9	http://en.wikipedia.org/wiki/The_Exorcist_(film)	The Exorcist	1973-nm-TheExorcist.jpg
+138	1973	5.5	5.5	0	TRUE	159.616327	159.616327	42.9	http://en.wikipedia.org/wiki/The_Sting	The Sting	1973-gp-TheSting.jpg
+331	1973	0.775	0.775	2	FALSE	140	140	42.9	http://en.wikipedia.org/wiki/American_Graffiti	American Graffiti	1973-nm-AmericanGraffiti.jpg
+23	1973	None	None	3	FALSE	16.8	16.8	42.9	http://en.wikipedia.org/wiki/A_Touch_of_Class_(film)	A Touch of Class	1973-nm-ATouchofClass.jpg
+330	1972	1.6	1.6	4	FALSE	None	None	41.1	http://en.wikipedia.org/wiki/The_Emigrants_(film)	The Emigrants	1972-nm-TheEmigrants.jpg
+467	1972	6.5	6.5	0	TRUE	286	286	41.1	http://en.wikipedia.org/wiki/The_Godfather	The Godfather	1972-gp-TheGodfather.jpg
+329	1972	2	2	1	FALSE	46.122355	46.122355	41.1	http://en.wikipedia.org/wiki/Deliverance	Deliverance	1972-nm-Deliverance.jpg
+499	1972	2.285	2.285	2	FALSE	42.765	42.765	41.1	http://en.wikipedia.org/wiki/Cabaret_(film)	Cabaret	1972-nm-Cabaret.jpg
+137	1972	0.9	0.9	3	FALSE	16.889761	16.889761	41.1	http://en.wikipedia.org/wiki/Sounder_(film)	Sounder	1972-nm-Sounder.jpg
+328	1971	ERR original movie poster	ERR original movie poster	4	FALSE	None	None	39.9	http://en.wikipedia.org/wiki/Nicholas_and_Alexandra	Nicholas and Alexandra	1971-nm-NicholasandAlexandra.jpg
+134	1971	1.8	1.8	0	TRUE	ERR  51.7  75.0(rentals) 	ERR  51.7  75.0(rentals) 	39.9	http://en.wikipedia.org/wiki/The_French_Connection_(film)	The French Connection	1971-gp-TheFrenchConnection.jpg
+135	1971	9	9	1	FALSE	83.387607	83.387607	39.9	http://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)	Fiddler on the Roof	1971-nm-FiddlerontheRoof.jpg
+136	1971	1.3	1.3	2	FALSE	29.133	29.133	39.9	http://en.wikipedia.org/wiki/The_Last_Picture_Show	The Last Picture Show	1971-nm-TheLastPictureShow.jpg
+466	1971	2.2	2.2	3	FALSE	26.589355	26.589355	39.9	http://en.wikipedia.org/wiki/A_Clockwork_Orange_(film)	A Clockwork Orange	1971-nm-AClockworkOrange.jpg
+327	1970	2.2	2.2	1	FALSE	136.397186	136.397186	39.0	http://en.wikipedia.org/wiki/Love_Story_(1970_film)	Love Story	1970-nm-LoveStory.jpg
+132	1970	10.2	10.2	2	FALSE	100.489151	100.489151	39.0	http://en.wikipedia.org/wiki/Airport_(1970_film)	Airport	1970-nm-Airport.jpg
+133	1970	3.025	3.025	3	FALSE	81.6	81.6	39.0	http://en.wikipedia.org/wiki/MASH_(film)	MASH	1970-nm-MASH.jpg
+131	1970	12.625	12.625	0	TRUE	61.749765	61.749765	39.0	http://en.wikipedia.org/wiki/Patton_(film)	Patton	1970-gp-Patton.jpg
+22	1970	1.6	1.6	4	FALSE	18.099091	18.099091	39.0	http://en.wikipedia.org/wiki/Five_Easy_Pieces	Five Easy Pieces	1970-nm-FiveEasyPieces.jpg
+326	1969	None	None	4	FALSE	ERR  6.134264 (US/ Canada rentals) 	ERR  6.134264 (US/ Canada rentals) 	35.6	http://en.wikipedia.org/wiki/Anne_of_the_Thousand_Days	Anne of the Thousand Days	1969-nm-AnneoftheThousandDays.jpg
+129	1969	6.825	6.825	1	FALSE	102.308889	102.308889	35.6	http://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid	Butch Cassidy and the Sundance Kid	1969-nm-ButchCassidyandtheSundanceKid.jpg
+215	1969	3.2	3.2	0	TRUE	44.785053	44.785053	35.6	http://en.wikipedia.org/wiki/Midnight_Cowboy	Midnight Cowboy	1969-gp-MidnightCowboy.gif
+366	1969	25	25	2	FALSE	ERR  26 million{{{1}}}	26	35.6	http://en.wikipedia.org/wiki/Hello,_Dolly!_(film)	Hello, Dolly!	1969-nm-HelloDolly.jpg
+130	1969	None	None	3	FALSE	ERR  14.283305  7.1(rentals)	14.283305	35.6	http://en.wikipedia.org/wiki/Z_(film)	Z	1969-nm-Z.jpg
+383	1968	0.78	0.78	4	FALSE	ERR  3.0(rentals) 	ERR  3.0(rentals) 	34.2	http://en.wikipedia.org/wiki/Rachel,_Rachel	Rachel, Rachel	1968-nm-RachelRachel.jpg
+127	1968	10	10	0	TRUE	77.402877	77.402877	34.2	http://en.wikipedia.org/wiki/Oliver!_(film)	Oliver!	1968-gp-Oliver.jpg
+128	1968	14.1	14.1	1	FALSE	58.5	58.5	34.2	http://en.wikipedia.org/wiki/Funny_Girl_(film)	Funny Girl	1968-nm-FunnyGirl.jpg
+325	1968	0.85	0.85	2	FALSE	38.901218	38.901218	34.2	http://en.wikipedia.org/wiki/Romeo_and_Juliet_(1968_film)	Romeo and Juliet	1968-nm-RomeoandJuliet.jpg
+324	1968	10	10	3	FALSE	22.276975	22.276975	34.2	http://en.wikipedia.org/wiki/The_Lion_in_Winter_(1968_film)	The Lion in Winter	1968-nm-TheLioninWinter.jpg
+323	1967	17.015	17.015	4	FALSE	ERR  6.2(rentals) 	ERR  6.2(rentals) 	33.1	http://en.wikipedia.org/wiki/Doctor_Dolittle_(film)	Doctor Dolittle	1967-nm-DoctorDolittle.jpg
+498	1967	3	3	1	FALSE	104.901839	104.901839	33.1	http://en.wikipedia.org/wiki/The_Graduate	The Graduate	1967-nm-TheGraduate.jpg
+125	1967	2.5	2.5	2	FALSE	ERR  50.7 (domestic) 70.0  	70	33.1	http://en.wikipedia.org/wiki/Bonnie_and_Clyde_(film)	Bonnie and Clyde	1967-nm-BonnieandClyde.jpg
+126	1967	4	4	3	FALSE	ERR  56.666667(Domestic)  70.0(Worldwide) 	70	33.1	http://en.wikipedia.org/wiki/Guess_Who%27s_Coming_to_Dinner	Guess Who's Coming to Dinner	1967-nm-GuessWhosComingtoDinner.jpg
+124	1967	2	2	0	TRUE	24.379978	24.379978	33.1	http://en.wikipedia.org/wiki/In_the_Heat_of_the_Night_(film)	In the Heat of the Night	1967-gp-IntheHeatoftheNight.jpg
+122	1966	ERR Originalfilm posterbyHoward Terpning	ERR Originalfilm posterbyHoward Terpning	0	TRUE	ERR Originalfilm posterbyHoward Terpning	ERR Originalfilm posterbyHoward Terpning	32.1	http://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(1966_film)	A Man for All Seasons	1966-gp-AManforAllSeasons.gif
+123	1966	7.5	7.5	1	FALSE	40	40	32.1	http://en.wikipedia.org/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F_(film)	Who's Afraid of Virginia Woolf?	1966-nm-WhosAfraidofVirginiaWoolf.jpg
+322	1966	12.11	12.11	2	FALSE	30.017647	30.017647	32.1	http://en.wikipedia.org/wiki/The_Sand_Pebbles_(film)	The Sand Pebbles	1966-nm-TheSandPebbles.jpg
+321	1966	3.9	3.9	3	FALSE	21.693114	21.693114	32.1	http://en.wikipedia.org/wiki/The_Russians_Are_Coming,_the_Russians_Are_Coming	The Russians Are Coming, the Russians Are Coming	1966-nm-TheRussiansAreComingtheRussiansAreComing.jpg
+21	1966	0.8	0.8	4	FALSE	18.8713	18.8713	32.1	http://en.wikipedia.org/wiki/Alfie_(1966_film)	Alfie	1966-nm-Alfie.jpg
+54	1965	ERR 	ERR 	4	FALSE	ERR  3.5(rentals) 	ERR  3.5(rentals) 	31.2	http://en.wikipedia.org/wiki/Ship_of_Fools_(film)	Ship of Fools	1965-nm-ShipofFools.jpg
+465	1965	8.2	8.2	0	TRUE	286.214286	286.214286	31.2	http://en.wikipedia.org/wiki/The_Sound_of_Music_(film)	The Sound of Music	1965-gp-TheSoundofMusic.jpg
+121	1965	11	11	1	FALSE	111.72191	111.72191	31.2	http://en.wikipedia.org/wiki/Doctor_Zhivago_(film)	Doctor Zhivago	1965-nm-DoctorZhivago.jpg
+53	1965	ERR £0.4 	ERR £0.4 	2	FALSE	12	12	31.2	http://en.wikipedia.org/wiki/Darling_(1965_film)	Darling	1965-nm-Darling.jpg
+320	1965	None	None	3	FALSE	2.4	2.4	31.2	http://en.wikipedia.org/wiki/A_Thousand_Clowns_(film)	A Thousand Clowns	1965-nm-AThousandClowns.jpg
+464	1964	6	6	1	FALSE	102.272727	102.272727	30.9	http://en.wikipedia.org/wiki/Mary_Poppins_(film)	Mary Poppins	1964-nm-MaryPoppins.jpg
+497	1964	17	17	0	TRUE	72	72	30.9	http://en.wikipedia.org/wiki/My_Fair_Lady_(film)	My Fair Lady	1964-gp-MyFairLady.jpg
+463	1964	1.8	1.8	2	FALSE	9.440272	9.440272	30.9	http://en.wikipedia.org/wiki/Dr._Strangelove	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	1964-nm-DrStrangeloveorHowILearnedtoStopWorryingandLovetheBomb.jpg
+318	1964	3	3	3	FALSE	9.16437	9.16437	30.9	http://en.wikipedia.org/wiki/Becket_(1964_film)	Becket	1964-nm-Becket.jpeg
+319	1964	0.783	0.783	4	FALSE	9	9	30.9	http://en.wikipedia.org/wiki/Zorba_the_Greek_(film)	Zorba the Greek	1964-nm-ZorbatheGreek.jpg
+496	1963	None	None	3	FALSE	None	None	30.7	http://en.wikipedia.org/wiki/America,_America	America, America	1963-nm-AmericaAmerica.jpg
+317	1963	44	44	4	FALSE	ERR  57.777778(US) 	ERR  57.777778(US) 	30.7	http://en.wikipedia.org/wiki/Cleopatra_(1963_film)	Cleopatra	1963-nm-Cleopatra.jpg
+409	1963	15	15	1	FALSE	ERR  35 million (USA)(Jan 1970)  50 million (Worldwide)(Jan 1970) 	50	30.7	http://en.wikipedia.org/wiki/How_the_West_Was_Won_(film)	How the West Was Won	1963-nm-HowtheWestWasWon.jpg
+316	1963	1.25	1.25	0	TRUE	20	20	30.7	http://en.wikipedia.org/wiki/Tom_Jones_(film)	Tom Jones	1963-gp-TomJones.jpg
+20	1963	0.25	0.25	2	FALSE	2.5	2.5	30.7	http://en.wikipedia.org/wiki/Lilies_of_the_Field_(1963_film)	Lilies of the Field	1963-nm-LiliesoftheField.jpg
+462	1962	15	15	0	TRUE	70	70	30.1	http://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)	Lawrence of Arabia	1962-gp-LawrenceofArabia.jpg
+408	1962	7.75	7.75	1	FALSE	50.1	50.1	30.1	http://en.wikipedia.org/wiki/The_Longest_Day_(film)	The Longest Day	1962-nm-TheLongestDay.jpg
+315	1962	2	2	2	FALSE	15.062211	15.062211	30.1	http://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_(film)	To Kill a Mockingbird	1962-nm-ToKillaMockingbird.jpg
+19	1962	None	None	3	FALSE	14.953846	14.953846	30.1	http://en.wikipedia.org/wiki/The_Music_Man_(1962_film)	The Music Man	1962-nm-TheMusicMan.jpg
+314	1962	19	19	4	FALSE	13.68	13.68	30.1	http://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1962_film)	Mutiny on the Bounty	1962-nm-MutinyontheBounty.jpg
+52	1961	None	None	4	FALSE	ERR  4.5 million (US/ Canada rentals) 	ERR  4.5 million (US/ Canada rentals) 	30.0	http://en.wikipedia.org/wiki/Fanny_(1961_film)	Fanny	1961-nm-Fanny.jpg
+460	1961	6	6	0	TRUE	43.7	43.7	30.0	http://en.wikipedia.org/wiki/West_Side_Story_(film)	West Side Story	1961-gp-WestSideStory.jpg
+313	1961	6	6	1	FALSE	28.9	28.9	30.0	http://en.wikipedia.org/wiki/The_Guns_of_Navarone_(film)	The Guns of Navarone	1961-nm-TheGunsofNavarone.jpg
+461	1961	3	3	2	FALSE	10	10	30.0	http://en.wikipedia.org/wiki/Judgment_at_Nuremberg	Judgment at Nuremberg	1961-nm-JudgmentatNuremberg.jpg
+495	1961	2.125	2.125	3	FALSE	7.6	7.6	30.0	http://en.wikipedia.org/wiki/The_Hustler_(film)	The Hustler	1961-nm-TheHustler.jpg
+312	1960	None	None	4	FALSE	ERR film poster	ERR film poster	29.4	http://en.wikipedia.org/wiki/The_Sundowners	The Sundowners	1960-nm-TheSundowners.jpg
+190	1960	12	ERR  12.0 est.	3	FALSE	ERR  7.2 (US/ Canada) 	ERR  7.2 (US/ Canada) 	29.4	http://en.wikipedia.org/wiki/The_Alamo_(1960_film)	The Alamo	1960-nm-TheAlamo.jpg
+51	1960	3	3	2	FALSE	ERR  5.2 million (US/ Canada rentals) 	ERR  5.2 million (US/ Canada rentals) 	29.4	http://en.wikipedia.org/wiki/Elmer_Gantry_(film)	Elmer Gantry	1960-nm-ElmerGantry.jpg
+459	1960	0.805	0.805	1	FALSE	ERR  1.5 (US/ Canada) 	ERR  1.5 (US/ Canada) 	29.4	http://en.wikipedia.org/wiki/Sons_and_Lovers_(1960_film)	Sons and Lovers	1960-nm-SonsandLovers.jpg
+311	1960	3	3	0	TRUE	24.6	24.6	29.4	http://en.wikipedia.org/wiki/The_Apartment	The Apartment	1960-gp-TheApartment.jpg
+18	1959	ERR £0.28 	ERR £0.28 	4	FALSE	ERR Theatrical release poster	ERR Theatrical release poster	29.2	http://en.wikipedia.org/wiki/Room_at_the_Top_(1959_film)	Room at the Top	1959-nm-RoomattheTop.jpg
+457	1959	15	15	0	TRUE	ERR  146.9 (initial release)	ERR  146.9 (initial release)	29.2	http://en.wikipedia.org/wiki/Ben-Hur_(1959_film)	Ben-Hur	1959-gp-BenHur.jpg
+458	1959	None	None	1	FALSE	11	11	29.2	http://en.wikipedia.org/wiki/Anatomy_of_a_Murder	Anatomy of a Murder	1959-nm-AnatomyofaMurder.jpg
+120	1959	None	None	2	FALSE	6.3	6.3	29.2	http://en.wikipedia.org/wiki/The_Nun%27s_Story_(film)	The Nun's Story	1959-nm-TheNunsStory.jpg
+310	1959	3.8	3.8	3	FALSE	2.3	2.3	29.2	http://en.wikipedia.org/wiki/The_Diary_of_Anne_Frank_(1959_film)	The Diary of Anne Frank	1959-nm-TheDiaryofAnneFrank.jpg
+16	1958	0.778	0.778	4	FALSE	None	None	28.45	http://en.wikipedia.org/wiki/The_Defiant_Ones	The Defiant Ones	1958-nm-TheDefiantOnes.jpg
+363	1958	3	3	1	FALSE	26.355483	26.355483	28.45	http://en.wikipedia.org/wiki/Cat_on_a_Hot_Tin_Roof_(film)	Cat on a Hot Tin Roof	1958-nm-CatonaHotTinRoof.jpg
+119	1958	3.319355	3.319355	0	TRUE	13.208725	13.208725	28.45	http://en.wikipedia.org/wiki/Gigi_(1958_film)	Gigi	1958-gp-Gigi.jpg
+50	1958	None	None	2	FALSE	9	9	28.45	http://en.wikipedia.org/wiki/Auntie_Mame_(film)	Auntie Mame	1958-nm-AuntieMame.jpg
+17	1958	None	None	3	FALSE	3.1	3.1	28.45	http://en.wikipedia.org/wiki/Separate_Tables_(film)	Separate Tables	1958-nm-SeparateTables.jpg
+456	1957	3	3	0	TRUE	ERR  33.3 million (inU.S.)	ERR  33.3 million (inU.S.)	27.6	http://en.wikipedia.org/wiki/The_Bridge_on_the_River_Kwai	The Bridge on the River Kwai	1957-gp-TheBridgeontheRiverKwai.jpg
+116	1957	None	None	4	FALSE	ERR  22.000115 (in U.S.)	ERR  22.000115 (in U.S.)	27.6	http://en.wikipedia.org/wiki/Sayonara	Sayonara	1957-nm-Sayonara.jpg
+117	1957	0.34	0.34	3	FALSE	ERR  1.0(rentals) 	ERR  1.0(rentals) 	27.6	http://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)	12 Angry Men	1957-nm-12AngryMen.jpg
+309	1957	2.2	2.2	1	FALSE	25.6	25.6	27.6	http://en.wikipedia.org/wiki/Peyton_Place_(film)	Peyton Place	1957-nm-PeytonPlace.jpg
+118	1957	3	3	2	FALSE	9	9	27.6	http://en.wikipedia.org/wiki/Witness_for_the_Prosecution_(1957_film)	Witness for the Prosecution	1957-nm-WitnessfortheProsecution.jpg
+305	1956	3	3	4	FALSE	ERR  8 million (as of 1960) 	ERR  8 million (as of 1960) 	26.9	http://en.wikipedia.org/wiki/Friendly_Persuasion_(film)	Friendly Persuasion	1956-nm-FriendlyPersuasion.jpg
+308	1956	13.5	13.5	1	FALSE	80	80	26.9	http://en.wikipedia.org/wiki/The_Ten_Commandments_(1956_film)	The Ten Commandments	1956-nm-TheTenCommandments.jpg
+455	1956	6	6	0	TRUE	42	42	26.9	http://en.wikipedia.org/wiki/Around_the_World_in_80_Days_(1956_film)	Around the World in 80 Days	1956-gp-AroundtheWorldin80Days.jpg
+306	1956	5.4	5.4	2	FALSE	35	35	26.9	http://en.wikipedia.org/wiki/Giant_(1956_film)	Giant	1956-nm-Giant.gif
+307	1956	4.55	4.55	3	FALSE	21.3	21.3	26.9	http://en.wikipedia.org/wiki/The_King_and_I_(1956_film)	The King and I	1956-nm-TheKingandI.jpg
+14	1955	None	None	4	FALSE	ERR Rentals: 6.3(US / Canada)  	ERR Rentals: 6.3(US / Canada)  	27.4	http://en.wikipedia.org/wiki/Picnic_(1955_film)	Picnic	1955-nm-Picnic.jpg
+304	1955	None	None	3	FALSE	ERR  8.5 million (US) 	ERR  8.5 million (US) 	27.4	http://en.wikipedia.org/wiki/Mister_Roberts_(1955_film)	Mister Roberts	1955-nm-MisterRoberts.jpg
+15	1955	None	None	2	FALSE	ERR  4.2 million (US) 	ERR  4.2 million (US) 	27.4	http://en.wikipedia.org/wiki/The_Rose_Tattoo_(film)	The Rose Tattoo	1955-nm-TheRoseTattoo.jpg
+13	1955	1.78	1.78	1	FALSE	ERR  3 million (US in 1955) 	ERR  3 million (US in 1955) 	27.4	http://en.wikipedia.org/wiki/Love_Is_a_Many-Splendored_Thing_(film)	Love Is a Many-Splendored Thing	1955-nm-LoveIsaManySplendoredThing.jpg
+378	1955	0.35	0.35	0	TRUE	ERR  2.0 (US/ Canada rentals)  1.5 ( seas rentals) 	ERR  2.0 (US/ Canada rentals)  1.5 ( seas rentals) 	27.4	http://en.wikipedia.org/wiki/Marty_(film)	Marty	1955-gp-Marty.jpg
+49	1954	1.7	1.7	4	FALSE	ERR  5 million (US rentals)  	ERR  5 million (US rentals)  	26.8	http://en.wikipedia.org/wiki/Three_Coins_in_the_Fountain_(1954_film)	Three Coins in the Fountain	1954-nm-ThreeCoinsintheFountain.jpg
+302	1954	2	2	1	FALSE	21.8	21.8	26.8	http://en.wikipedia.org/wiki/The_Caine_Mutiny_(film)	The Caine Mutiny	1954-nm-TheCaineMutiny.jpg
+377	1954	0.91	0.91	0	TRUE	9.6	9.6	26.8	http://en.wikipedia.org/wiki/On_the_Waterfront	On the Waterfront	1954-gp-OntheWaterfront.jpg
+42	1954	None	None	2	FALSE	6.5	6.5	26.8	http://en.wikipedia.org/wiki/The_Country_Girl_(1954_film)	The Country Girl	1954-nm-TheCountryGirl.jpg
+303	1954	ERR Theatrical release poster	ERR Theatrical release poster	3	FALSE	5.6	5.6	26.8	http://en.wikipedia.org/wiki/Seven_Brides_for_Seven_Brothers_(film)	Seven Brides for Seven Brothers	1954-nm-SevenBridesforSevenBrothers.jpg
+299	1953	None	None	3	FALSE	None	None	26.6	http://en.wikipedia.org/wiki/Julius_Caesar_(1953_film)	Julius Caesar	1953-nm-JuliusCaesar.jpeg
+382	1953	4.1	4.1	4	FALSE	ERR  36 million (United States) 	ERR  36 million (United States) 	26.6	http://en.wikipedia.org/wiki/The_Robe_(film)	The Robe	1953-nm-TheRobe.jpg
+298	1953	1.65	1.65	0	TRUE	30.5	30.5	26.6	http://en.wikipedia.org/wiki/From_Here_to_Eternity	From Here to Eternity	1953-gp-FromHeretoEternity.jpg
+301	1953	3.1	3.1	1	FALSE	20	20	26.6	http://en.wikipedia.org/wiki/Shane_(film)	Shane	1953-nm-Shane.png
+300	1953	1.5	1.5	2	FALSE	12	12	26.6	http://en.wikipedia.org/wiki/Roman_Holiday	Roman Holiday	1953-nm-RomanHoliday.jpg
+296	1952	None	None	4	FALSE	ERR USD 6 million (US)   	ERR USD 6 million (US)   	25.65	http://en.wikipedia.org/wiki/Ivanhoe_(1952_film)	Ivanhoe	1952-nm-Ivanhoe.jpg
+297	1952	1.75	1.75	3	FALSE	ERR  3.2 million (US) 	ERR  3.2 million (US) 	25.65	http://en.wikipedia.org/wiki/The_Quiet_Man	The Quiet Man	1952-nm-TheQuietMan.jpg
+294	1952	None	None	0	TRUE	ERR  12.8 million (US / Canada rentals)  	ERR  12.8 million (US / Canada rentals)  	25.65	http://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth	The Greatest Show on Earth	1952-gp-TheGreatestShowonEarth.gif
+295	1952	0.73	0.73	1	FALSE	12	12	25.65	http://en.wikipedia.org/wiki/High_Noon	High Noon	1952-nm-HighNoon.jpg
+12	1952	1.5	ERR USD 1.5 million (approx. £0.967785)	2	FALSE	5	5	25.65	http://en.wikipedia.org/wiki/Moulin_Rouge_(1952_film)	Moulin Rouge	1952-nm-MoulinRouge.jpg
+375	1951	2.723903	2.723903	0	TRUE	ERR  4.5  8.005(worldwide theatrical rentals)	ERR  4.5  8.005(worldwide theatrical rentals)	25.6	http://en.wikipedia.org/wiki/An_American_in_Paris_(film)	An American in Paris	1951-gp-AnAmericaninParis.jpg
+115	1951	None	None	4	FALSE	ERR  1.55 million (US rentals) 	ERR  1.55 million (US rentals) 	25.6	http://en.wikipedia.org/wiki/Decision_Before_Dawn	Decision Before Dawn	1951-nm-DecisionBeforeDawn.jpg
+376	1951	7	7	1	FALSE	30	30	25.6	http://en.wikipedia.org/wiki/Quo_Vadis_(1951_film)	Quo Vadis	1951-nm-QuoVadis.jpg
+293	1951	1.8	1.8	2	FALSE	8	8	25.6	http://en.wikipedia.org/wiki/A_Streetcar_Named_Desire_(1951_film)	A Streetcar Named Desire	1951-nm-AStreetcarNamedDesire.jpg
+11	1951	2.295304	2.295304	3	FALSE	7	7	25.6	http://en.wikipedia.org/wiki/A_Place_in_the_Sun_(film)	A Place in the Sun	1951-nm-APlaceintheSun.gif
+114	1950	1.2	1.2	4	FALSE	ERR  6 million (worldwide rentals) 	ERR  6 million (worldwide rentals) 	24.1	http://en.wikipedia.org/wiki/Father_of_the_Bride_(1950_film)	Father of the Bride	1950-nm-FatheroftheBride.jpg
+222	1950	None	None	3	FALSE	ERR  4.15 million (US rentals) 	ERR  4.15 million (US rentals) 	24.1	http://en.wikipedia.org/wiki/Born_Yesterday_(1950_film)	Born Yesterday	1950-nm-BornYesterday.jpg
+10	1950	2.258	2.258	1	FALSE	10.05	10.05	24.1	http://en.wikipedia.org/wiki/King_Solomon%27s_Mines_(1950_film)	King Solomon's Mines	1950-nm-KingSolomonsMines.jpg
+453	1950	1.4	1.4	0	TRUE	8.4	8.4	24.1	http://en.wikipedia.org/wiki/All_About_Eve	All About Eve	1950-gp-AllAboutEve.jpeg
+454	1950	1.75	1.75	2	FALSE	5	5	24.1	http://en.wikipedia.org/wiki/Sunset_Boulevard_(film)	Sunset Boulevard	1950-nm-SunsetBoulevard.jpg
+291	1949	None	None	1	FALSE	None	None	23.8	http://en.wikipedia.org/wiki/A_Letter_to_Three_Wives	A Letter to Three Wives	1949-nm-ALettertoThreeWives.jpg
+290	1949	2	2	4	FALSE	ERR  4.7 million (North American rentals) 	ERR  4.7 million (North American rentals) 	23.8	http://en.wikipedia.org/wiki/Battleground_(1949_film)	Battleground	1949-nm-Battleground.jpg
+292	1949	None	None	3	FALSE	ERR  3.225 (U.S. rentals) 	ERR  3.225 (U.S. rentals) 	23.8	http://en.wikipedia.org/wiki/Twelve_O%27Clock_High	Twelve O'Clock High	1949-nm-TwelveOClockHigh.jpg
+289	1949	None	None	0	TRUE	ERR  2.4 million (US rentals) 	ERR  2.4 million (US rentals) 	23.8	http://en.wikipedia.org/wiki/All_the_King%27s_Men_(1949_film)	All the King's Men	1949-gp-AlltheKingsMen.jpg
+48	1949	2.6	2.6	2	FALSE	ERR  2.3 million (US rentals) 	ERR  2.3 million (US rentals) 	23.8	http://en.wikipedia.org/wiki/The_Heiress	The Heiress	1949-nm-TheHeiress.jpg
+286	1948	ERR £0.6 	ERR £0.6 	0	TRUE	None	None	24.4	http://en.wikipedia.org/wiki/Hamlet_(1948_film)	Hamlet	1948-gp-Hamlet.jpg
+288	1948	3	3	4	FALSE	ERR  4.307(rentals)	ERR  4.307(rentals)	24.4	http://en.wikipedia.org/wiki/The_Treasure_of_the_Sierra_Madre_(film)	The Treasure of the Sierra Madre	1948-nm-TheTreasureoftheSierraMadre.jpg
+113	1948	None	None	3	FALSE	ERR  4.1 million (US/Canada rentals) 	ERR  4.1 million (US/Canada rentals) 	24.4	http://en.wikipedia.org/wiki/The_Snake_Pit	The Snake Pit	1948-nm-TheSnakePit.jpg
+47	1948	None	None	2	FALSE	ERR  4.1 million (US/ Canada rentals) 	ERR  4.1 million (US/ Canada rentals) 	24.4	http://en.wikipedia.org/wiki/Johnny_Belinda_(1948_film)	Johnny Belinda	1948-nm-JohnnyBelinda.jpg
+287	1948	ERR £0.551927 	ERR £0.551927 	1	FALSE	5	5	24.4	http://en.wikipedia.org/wiki/The_Red_Shoes_(1948_film)	The Red Shoes	1948-nm-TheRedShoes.jpg
+44	1947	None	None	2	FALSE	None	None	21.9	http://en.wikipedia.org/wiki/The_Bishop%27s_Wife	The Bishop's Wife	1947-nm-TheBishopsWife.gif
+45	1947	0.25	0.25	3	FALSE	None	None	21.9	http://en.wikipedia.org/wiki/Crossfire_(film)	Crossfire	1947-nm-Crossfire.jpg
+46	1947	None	None	4	FALSE	ERR Theatrical release poster	ERR Theatrical release poster	21.9	http://en.wikipedia.org/wiki/Great_Expectations_(1946_film)	Great Expectations	1947-nm-GreatExpectations.jpg
+285	1947	1.985	1.985	0	TRUE	7.8	7.8	21.9	http://en.wikipedia.org/wiki/Gentleman%27s_Agreement	Gentleman's Agreement	1947-gp-GentlemansAgreement.jpg
+214	1947	0.63	0.63	1	FALSE	3.15	3.15	21.9	http://en.wikipedia.org/wiki/Miracle_on_34th_Street	Miracle on 34th Street	1947-nm-Miracleon34thStreet.jpg
+284	1946	ERR £0.475	ERR £0.475	4	FALSE	None	None	18.1	http://en.wikipedia.org/wiki/Henry_V_(1944_film)	Henry V	1946-nm-HenryV.jpg
+283	1946	2.1	2.1	0	TRUE	23.65	23.65	18.1	http://en.wikipedia.org/wiki/The_Best_Years_of_Our_Lives	The Best Years of Our Lives	1946-gp-TheBestYearsofOurLives.jpg
+112	1946	4	4	1	FALSE	7	7	18.1	http://en.wikipedia.org/wiki/The_Yearling_(film)	The Yearling	1946-nm-TheYearling.jpg
+111	1946	1.2	1.2	2	FALSE	5	5	18.1	http://en.wikipedia.org/wiki/The_Razor%27s_Edge_(1946_film)	The Razor's Edge	1946-nm-TheRazorsEdge.jpg
+494	1946	3.18	ERR  3.18 million[N 1]	3	FALSE	3.3	3.3	18.1	http://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life	It's a Wonderful Life	1946-nm-ItsaWonderfulLife.jpg
+213	1945	1.453	1.453	1	FALSE	None	None	17.8	http://en.wikipedia.org/wiki/Mildred_Pierce_(film)	Mildred Pierce	1945-nm-MildredPierce.jpg
+282	1945	ERR US 1.5 million	ERR US 1.5 million	4	FALSE	ERR US 6.387 (by 1947) 	ERR US 6.387 (by 1947) 	17.8	http://en.wikipedia.org/wiki/Spellbound_(1945_film)	Spellbound	1945-nm-Spellbound.jpg
+109	1945	None	None	3	FALSE	ERR  4.5 million (US/ Canada rentals) 	ERR  4.5 million (US/ Canada rentals) 	17.8	http://en.wikipedia.org/wiki/Anchors_Aweigh_(film)	Anchors Aweigh	1945-nm-AnchorsAweigh.jpg
+281	1945	1.25	1.25	0	TRUE	ERR  4.3 million (US/ Canada rentals) 	ERR  4.3 million (US/ Canada rentals) 	17.8	http://en.wikipedia.org/wiki/The_Lost_Weekend_(film)	The Lost Weekend	1945-gp-TheLostWeekend.jpg
+110	1945	None	None	2	FALSE	ERR  21.333333 (United States) 	ERR  21.333333 (United States) 	17.8	http://en.wikipedia.org/wiki/The_Bells_of_St._Mary%27s	The Bells of St. Mary's	1945-nm-TheBellsofStMarys.jpg
+401	1944	2.995	2.995	4	FALSE	ERR  2.0(rentals) 	ERR  2.0(rentals) 	17.7	http://en.wikipedia.org/wiki/Wilson_(film)	Wilson	1944-nm-Wilson.jpg
+43	1944	3.257	3.257	1	FALSE	7	7	17.7	http://en.wikipedia.org/wiki/Since_You_Went_Away	Since You Went Away	1944-nm-SinceYouWentAway.jpg
+212	1944	None	None	0	TRUE	6.5	6.5	17.7	http://en.wikipedia.org/wiki/Going_My_Way	Going My Way	1944-gp-GoingMyWay.jpg
+452	1944	0.98	0.98	2	FALSE	5	5	17.7	http://en.wikipedia.org/wiki/Double_Indemnity_(film)	Double Indemnity	1944-nm-DoubleIndemnity.jpg
+108	1944	2.068	2.068	3	FALSE	4.613	4.613	17.7	http://en.wikipedia.org/wiki/Gaslight_(1944_film)	Gaslight	1944-nm-Gaslight.jpg
+107	1943	None	None	2	FALSE	None	None	17.4	http://en.wikipedia.org/wiki/Watch_on_the_Rhine	Watch on the Rhine	1943-nm-WatchontheRhine.jpg
+104	1943	None	None	3	FALSE	None	None	17.4	http://en.wikipedia.org/wiki/The_Human_Comedy_(film)	The Human Comedy	1943-nm-TheHumanComedy.jpg
+374	1943	0.878	0.878	4	FALSE	None	None	17.4	http://en.wikipedia.org/wiki/The_More_the_Merrier	The More the Merrier	1943-nm-TheMoretheMerrier.jpg
+105	1943	None	None	5	FALSE	None	None	17.4	http://en.wikipedia.org/wiki/Madame_Curie_(film)	Madame Curie	1943-nm-MadameCurie.jpg
+279	1943	ERR £0.24 	ERR £0.24 	9	FALSE	ERR £0.3 (Commonwealth) 2 million (US rentals) 	ERR £0.3 (Commonwealth) 2 million (US rentals) 	17.4	http://en.wikipedia.org/wiki/In_Which_We_Serve	In Which We Serve	1943-nm-InWhichWeServe.jpg
+280	1943	1.6	1.6	8	FALSE	ERR  5 million (US/ Canada rentals) 	ERR  5 million (US/ Canada rentals) 	17.4	http://en.wikipedia.org/wiki/The_Song_of_Bernadette_(film)	The Song of Bernadette	1943-nm-TheSongofBernadette.jpg
+451	1943	0.964	0.964	0	TRUE	ERR  3.7 million(initial US release)	ERR  3.7 million(initial US release)	17.4	http://en.wikipedia.org/wiki/Casablanca_(film)	Casablanca	1943-gp-Casablanca.jpg
+103	1943	1.115	1.115	7	FALSE	ERR  2.5 million(rentals) 	ERR  2.5 million(rentals) 	17.4	http://en.wikipedia.org/wiki/Heaven_Can_Wait_(1943_film)	Heaven Can Wait	1943-nm-HeavenCanWait.jpg
+106	1943	0.565	0.565	6	FALSE	ERR  0.75(rentals) 	ERR  0.75(rentals) 	17.4	http://en.wikipedia.org/wiki/The_Ox-Bow_Incident	The Ox-Bow Incident	1943-nm-TheOxBowIncident.jpg
+102	1943	None	None	1	FALSE	7.1	7.1	17.4	http://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls_(film)	For Whom the Bell Tolls	1943-nm-ForWhomtheBellTolls.jpg
+101	1942	None	None	3	FALSE	None	None	16.0	http://en.wikipedia.org/wiki/Wake_Island_(1942_film)	Wake Island	1942-nm-WakeIsland.jpg
+211	1942	None	None	4	FALSE	None	None	16.0	http://en.wikipedia.org/wiki/The_Pied_Piper_(1942_film)	The Pied Piper	1942-nm-ThePiedPiper.jpg
+100	1942	1	1	5	FALSE	None	None	16.0	http://en.wikipedia.org/wiki/The_Talk_of_the_Town_(1942_film)	The Talk of the Town	1942-nm-TheTalkoftheTown.jpg
+450	1942	None	None	6	FALSE	None	None	16.0	http://en.wikipedia.org/wiki/The_Pride_of_the_Yankees	The Pride of the Yankees	1942-nm-ThePrideoftheYankees.jpg
+449	1942	1	1	7	FALSE	None	None	16.0	http://en.wikipedia.org/wiki/The_Magnificent_Ambersons_(film)	The Magnificent Ambersons	1942-nm-TheMagnificentAmbersons.jpg
+277	1942	ERR £0.132 	ERR £0.132 	9	FALSE	ERR £0.25 (in Britain) 	ERR £0.25 (in Britain) 	16.0	http://en.wikipedia.org/wiki/49th_Parallel_(film)	49th Parallel	1942-nm-49thParallel.jpg
+384	1942	2	2	8	FALSE	ERR  4.65 (Domestic earnings)  3.497 (Foreign earnings)	ERR  4.65 (Domestic earnings)  3.497 (Foreign earnings)	16.0	http://en.wikipedia.org/wiki/Random_Harvest_(film)	Random Harvest	1942-nm-RandomHarvest.jpg
+407	1942	None	None	1	FALSE	11.8	11.8	16.0	http://en.wikipedia.org/wiki/Yankee_Doodle_Dandy	Yankee Doodle Dandy	1942-nm-YankeeDoodleDandy.jpeg
+276	1942	1.344	1.344	0	TRUE	8.878	8.878	16.0	http://en.wikipedia.org/wiki/Mrs._Miniver_(film)	Mrs. Miniver	1942-gp-MrsMiniver.gif
+278	1942	1.081698	1.081698	2	FALSE	5.093	5.093	16.0	http://en.wikipedia.org/wiki/Kings_Row	Kings Row	1942-nm-KingsRow.jpg
+84	1941	None	None	2	FALSE	None	None	14.4	http://en.wikipedia.org/wiki/Here_Comes_Mr._Jordan	Here Comes Mr. Jordan	1941-nm-HereComesMrJordan.jpg
+98	1941	None	None	3	FALSE	None	None	14.4	http://en.wikipedia.org/wiki/Blossoms_in_the_Dust	Blossoms in the Dust	1941-nm-BlossomsintheDust.jpg
+189	1941	None	None	4	FALSE	None	None	14.4	http://en.wikipedia.org/wiki/Hold_Back_the_Dawn	Hold Back the Dawn	1941-nm-HoldBacktheDawn.png
+273	1941	None	None	5	FALSE	None	None	14.4	http://en.wikipedia.org/wiki/The_Little_Foxes_(film)	The Little Foxes	1941-nm-TheLittleFoxes.jpg
+274	1941	None	None	6	FALSE	None	None	14.4	http://en.wikipedia.org/wiki/One_Foot_in_Heaven	One Foot in Heaven	1941-nm-OneFootinHeaven.jpg
+406	1941	0.375	0.375	7	FALSE	None	None	14.4	http://en.wikipedia.org/wiki/The_Maltese_Falcon_(1941_film)	The Maltese Falcon	1941-nm-TheMalteseFalcon.jpg
+275	1941	1.103	1.103	9	FALSE	ERR US  4.5	ERR US  4.5	14.4	http://en.wikipedia.org/wiki/Suspicion_(1941_film)	Suspicion	1941-nm-Suspicion.jpg
+448	1941	0.839727	0.839727	8	FALSE	ERR  1.585634 (United States)	ERR  1.585634 (United States)	14.4	http://en.wikipedia.org/wiki/Citizen_Kane	Citizen Kane	1941-nm-CitizenKane.jpg
+99	1941	1.4	1.4	1	FALSE	16.361885	16.361885	14.4	http://en.wikipedia.org/wiki/Sergeant_York	Sergeant York	1941-nm-SergeantYork.gif
+272	1941	0.8	0.8	0	TRUE	6	6	14.4	http://en.wikipedia.org/wiki/How_Green_Was_My_Valley_(film)	How Green Was My Valley	1941-gp-HowGreenWasMyValley.jpg
+97	1940	None	None	6	FALSE	None	None	13.9	http://en.wikipedia.org/wiki/Our_Town_(1940_film)	Our Town	1940-nm-OurTown.jpg
+266	1940	None	None	7	FALSE	None	None	13.9	http://en.wikipedia.org/wiki/All_This,_and_Heaven_Too	All This, and Heaven Too	1940-nm-AllThisandHeavenToo.jpg
+447	1940	None	None	8	FALSE	None	None	13.9	http://en.wikipedia.org/wiki/The_Letter_(1940_film)	The Letter	1940-nm-TheLetter.jpg
+268	1940	0.8	0.8	9	FALSE	ERR  2.5 million(rentals) 	ERR  2.5 million(rentals) 	13.9	http://en.wikipedia.org/wiki/The_Grapes_of_Wrath_(film)	The Grapes of Wrath	1940-nm-TheGrapesofWrath.jpg
+265	1940	1.288	1.288	0	TRUE	6	6	13.9	http://en.wikipedia.org/wiki/Rebecca_(1940_film)	Rebecca	1940-gp-Rebecca.jpg
+271	1940	None	None	1	FALSE	3	3	13.9	http://en.wikipedia.org/wiki/The_Philadelphia_Story_(film)	The Philadelphia Story	1940-nm-ThePhiladelphiaStory.jpg
+269	1940	0.738	0.738	2	FALSE	2.385	2.385	13.9	http://en.wikipedia.org/wiki/Kitty_Foyle_(film)	Kitty Foyle	1940-nm-KittyFoyle.jpg
+446	1940	ERR US 2 million	ERR US 2 million	3	FALSE	2	2	13.9	http://en.wikipedia.org/wiki/The_Great_Dictator	The Great Dictator	1940-nm-TheGreatDictator.jpg
+267	1940	1.484167	1.484167	4	FALSE	1.598435	1.598435	13.9	http://en.wikipedia.org/wiki/Foreign_Correspondent_(film)	Foreign Correspondent	1940-nm-ForeignCorrespondent.jpg
+270	1940	0.682495	0.682495	5	FALSE	0.580129	0.580129	13.9	http://en.wikipedia.org/wiki/The_Long_Voyage_Home	The Long Voyage Home	1940-nm-TheLongVoyageHome.jpg
+95	1939	1.365	1.365	5	FALSE	None	None	13.9	http://en.wikipedia.org/wiki/Ninotchka	Ninotchka	1939-nm-Ninotchka.jpg
+94	1939	None	None	6	FALSE	None	None	13.9	http://en.wikipedia.org/wiki/Dark_Victory	Dark Victory	1939-nm-DarkVictory.jpg
+96	1939	None	None	7	FALSE	None	None	13.9	http://en.wikipedia.org/wiki/Of_Mice_and_Men_(1939_film)	Of Mice and Men	1939-nm-OfMiceandMen.jpg
+445	1939	2.777	2.777	9	FALSE	ERR  3.017(original release) 14.661431(unadjusted) (re-releases) 239.190498(adjusted 2012)	ERR  3.017(original release) 14.661431(unadjusted) (re-releases) 239.190498(adjusted 2012)	13.9	http://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)	The Wizard of Oz	1939-nm-TheWizardofOz.jpg
+264	1939	None	None	8	FALSE	ERR  0.624643 (1989 re-issue)	ERR  0.624643 (1989 re-issue)	13.9	http://en.wikipedia.org/wiki/Wuthering_Heights_(1939_film)	Wuthering Heights	1939-nm-WutheringHeights.jpg
+405	1939	3.85	3.85	0	TRUE	390	390	13.9	http://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)	Gone with the Wind	1939-gp-GonewiththeWind.jpg
+262	1939	1.5	1.5	1	FALSE	9	9	13.9	http://en.wikipedia.org/wiki/Mr._Smith_Goes_to_Washington	Mr. Smith Goes to Washington	1939-nm-MrSmithGoestoWashington.jpg
+260	1939	1.051	1.051	2	FALSE	3.252	3.252	13.9	http://en.wikipedia.org/wiki/Goodbye,_Mr._Chips_(1939_film)	Goodbye, Mr. Chips	1939-nm-GoodbyeMrChips.jpg
+261	1939	0.86	0.86	3	FALSE	1.75	1.75	13.9	http://en.wikipedia.org/wiki/Love_Affair_(1939_film)	Love Affair	1939-nm-LoveAffair.jpg
+263	1939	0.531374	0.531374	4	FALSE	1.103757	1.103757	13.9	http://en.wikipedia.org/wiki/Stagecoach_(1939_film)	Stagecoach	1939-nm-Stagecoach.jpg
+257	1938	None	None	3	FALSE	None	None	14.1	http://en.wikipedia.org/wiki/Grand_Illusion_(film)	Grand Illusion	1938-nm-GrandIllusion.jpg
+258	1938	1.25	1.25	4	FALSE	None	None	14.1	http://en.wikipedia.org/wiki/Jezebel_(film)	Jezebel	1938-nm-Jezebel.jpg
+259	1938	None	None	5	FALSE	None	None	14.1	http://en.wikipedia.org/wiki/Test_Pilot_(film)	Test Pilot	1938-nm-TestPilot.jpg
+256	1938	None	None	6	FALSE	None	None	14.1	http://en.wikipedia.org/wiki/Four_Daughters	Four Daughters	1938-nm-FourDaughters.jpg
+444	1938	ERR ₤87000 	ERR ₤87000 	7	FALSE	None	None	14.1	http://en.wikipedia.org/wiki/Pygmalion_(1938_film)	Pygmalion	1938-nm-Pygmalion.jpg
+373	1938	ERR US 1.644736 	ERR US 1.644736 	0	TRUE	ERR US 2.137575(US rentals)US 5.295526(Int'l rentals)	ERR US 2.137575(US rentals)US 5.295526(Int'l rentals)	14.1	http://en.wikipedia.org/wiki/You_Can%27t_Take_It_With_You_(film)	You Can't Take It With You	1938-gp-YouCantTakeItWithYou.jpg
+254	1938	None	None	9	FALSE	ERR Theatrical release poster	ERR Theatrical release poster	14.1	http://en.wikipedia.org/wiki/Boys_Town_(1938_film)	Boys Town	1938-nm-BoysTown.jpg
+253	1938	ERR  1.2– 2.275 	ERR  1.2– 2.275 	8	FALSE	ERR  3.6 million (gross rental) 	ERR  3.6 million (gross rental) 	14.1	http://en.wikipedia.org/wiki/Alexander%27s_Ragtime_Band_(film)	Alexander's Ragtime Band	1938-nm-AlexandersRagtimeBand.jpg
+252	1938	2.033	2.033	1	FALSE	3.981	3.981	14.1	http://en.wikipedia.org/wiki/The_Adventures_of_Robin_Hood_(film)	The Adventures of Robin Hood	1938-nm-TheAdventuresofRobinHood.jpg
+255	1938	1.012	1.012	2	FALSE	ERR  0.987 (Domestic earnings) 1.611 (Foreign earnings)	2.5	14.1	http://en.wikipedia.org/wiki/The_Citadel_(film)	The Citadel	1938-nm-TheCitadel.jpg
+93	1937	None	None	0	TRUE	None	None	13.5	http://en.wikipedia.org/wiki/The_Life_of_Emile_Zola	The Life of Emile Zola	1937-gp-TheLifeofEmileZola.jpg
+247	1937	2.8	2.8	4	FALSE	None	None	13.5	http://en.wikipedia.org/wiki/The_Good_Earth_(film)	The Good Earth	1937-nm-TheGoodEarth.jpg
+250	1937	None	None	5	FALSE	None	None	13.5	http://en.wikipedia.org/wiki/One_Hundred_Men_and_a_Girl	One Hundred Men and a Girl	1937-nm-OneHundredMenandaGirl.jpg
+246	1937	None	None	6	FALSE	None	None	13.5	http://en.wikipedia.org/wiki/Captains_Courageous_(1937_film)	Captains Courageous	1937-nm-CaptainsCourageous.jpg
+248	1937	None	None	7	FALSE	None	None	13.5	http://en.wikipedia.org/wiki/In_Old_Chicago	In Old Chicago	1937-nm-InOldChicago.jpg
+443	1937	0.9	0.9	8	FALSE	None	None	13.5	http://en.wikipedia.org/wiki/Dead_End_(1937_film)	Dead End	1937-nm-DeadEnd.png
+249	1937	2	2	9	FALSE	ERR Original poster	ERR Original poster	13.5	http://en.wikipedia.org/wiki/Lost_Horizon_(1937_film)	Lost Horizon	1937-nm-LostHorizon.jpg
+245	1937	None	None	1	FALSE	3	3	13.5	http://en.wikipedia.org/wiki/The_Awful_Truth	The Awful Truth	1937-nm-TheAwfulTruth.jpg
+210	1937	1.159	1.159	2	FALSE	2	2	13.5	http://en.wikipedia.org/wiki/A_Star_Is_Born_(1937_film)	A Star Is Born	1937-nm-AStarIsBorn.jpg
+251	1937	0.952	0.952	3	FALSE	1.762	1.762	13.5	http://en.wikipedia.org/wiki/Stage_Door	Stage Door	1937-nm-StageDoor.jpg
+441	1936	None	None	0	TRUE	None	None	13.8	http://en.wikipedia.org/wiki/The_Great_Ziegfeld	The Great Ziegfeld	1936-gp-TheGreatZiegfeld.gif
+208	1936	None	None	5	FALSE	None	None	13.8	http://en.wikipedia.org/wiki/Anthony_Adverse	Anthony Adverse	1936-nm-AnthonyAdverse.jpg
+244	1936	None	None	6	FALSE	None	None	13.8	http://en.wikipedia.org/wiki/Three_Smart_Girls	Three Smart Girls	1936-nm-ThreeSmartGirls.jpg
+372	1936	None	None	7	FALSE	None	None	13.8	http://en.wikipedia.org/wiki/The_Story_of_Louis_Pasteur	The Story of Louis Pasteur	1936-nm-TheStoryofLouisPasteur.jpg
+241	1936	ERR Theatrical release poster	ERR Theatrical release poster	8	FALSE	None	None	13.8	http://en.wikipedia.org/wiki/Mr._Deeds_Goes_to_Town	Mr. Deeds Goes to Town	1936-nm-MrDeedsGoestoTown.jpg
+209	1936	None	None	9	FALSE	ERR theatrical poster	ERR theatrical poster	13.8	http://en.wikipedia.org/wiki/Libeled_Lady	Libeled Lady	1936-nm-LibeledLady.jpg
+242	1936	1.3	1.3	1	FALSE	ERR  2.868 (Domestic earnings)  2.405 (Foreign earnings) 	5.26	13.8	http://en.wikipedia.org/wiki/San_Francisco_(1936_film)	San Francisco	1936-nm-SanFrancisco.jpg
+243	1936	1.232	1.232	2	FALSE	ERR  1.111 (Domestic earnings)  1.183 (Foreign earnings) 	2.95	13.8	http://en.wikipedia.org/wiki/A_Tale_of_Two_Cities_(1935_film)	A Tale of Two Cities	1936-nm-ATaleofTwoCities.jpg
+442	1936	2.066	2.066	3	FALSE	ERR  0.962 (Domestic earnings) 1.113 (Foreign earnings) 	2.1	13.8	http://en.wikipedia.org/wiki/Romeo_and_Juliet_(1936_film)	Romeo and Juliet	1936-nm-RomeoandJuliet.jpg
+404	1936	None	None	4	FALSE	1.6	1.6	13.8	http://en.wikipedia.org/wiki/Dodsworth_(film)	Dodsworth	1936-nm-Dodsworth.jpg
+370	1935	None	None	7	FALSE	None	None	13.7	http://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(1935_film)	Les Misérables	1935-nm-LesMisrables.jpg
+371	1935	None	None	8	FALSE	None	None	13.7	http://en.wikipedia.org/wiki/Ruggles_of_Red_Gap	Ruggles of Red Gap	1935-nm-RugglesofRedGap.jpg
+369	1935	None	None	9	FALSE	None	None	13.7	http://en.wikipedia.org/wiki/Broadway_Melody_of_1936	Broadway Melody of 1936	1935-nm-BroadwayMelodyof1936.jpg
+220	1935	1	1	11	FALSE	ERR Theatrical release poster	ERR Theatrical release poster	13.7	http://en.wikipedia.org/wiki/Captain_Blood_(1935_film)	Captain Blood	1935-nm-CaptainBlood.jpeg
+239	1935	None	None	10	FALSE	ERR Theatrical poster	ERR Theatrical poster	13.7	http://en.wikipedia.org/wiki/The_Lives_of_a_Bengal_Lancer	The Lives of a Bengal Lancer	1935-nm-TheLivesofaBengalLancer.jpg
+437	1935	1.95	1.95	0	TRUE	ERR  4.5 (rentals)	ERR  4.5 (rentals)	13.7	http://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1935_film)	Mutiny on the Bounty	1935-gp-MutinyontheBounty.jpg
+440	1935	0.609	0.609	1	FALSE	3.202	3.202	13.7	http://en.wikipedia.org/wiki/Top_Hat	Top Hat	1935-nm-TopHat.jpg
+238	1935	1.073	1.073	2	FALSE	ERR  1.621 (Domestic earnings)  1.348 (Foreign earnings) 	2.969	13.7	http://en.wikipedia.org/wiki/Personal_History,_Adventures,_Experience,_and_Observation_of_David_Copperfield_the_Younger_(1935)	David Copperfield	1935-nm-DavidCopperfield.jpg
+240	1935	0.782	0.782	3	FALSE	ERR  1.058 (Domestic earnings)  0.999 (Foreign earnings) 	2.057	13.7	http://en.wikipedia.org/wiki/Naughty_Marietta_(film)	Naughty Marietta	1935-nm-NaughtyMarietta.jpg
+439	1935	0.981	0.981	4	FALSE	1.229	1.229	13.7	http://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream_(1935_film)	A Midsummer Night's Dream	1935-nm-AMidsummerNightsDream.jpg
+438	1935	0.243	0.243	5	FALSE	0.95	0.95	13.7	http://en.wikipedia.org/wiki/The_Informer_(1935_film)	The Informer	1935-nm-TheInformer.jpg
+237	1935	0.342	0.342	6	FALSE	0.77	0.77	13.7	http://en.wikipedia.org/wiki/Alice_Adams_(film)	Alice Adams	1935-nm-AliceAdams.jpeg
+231	1934	None	None	3	FALSE	None	None	13.3	http://en.wikipedia.org/wiki/Cleopatra_(1934_film)	Cleopatra	1934-nm-Cleopatra.jpg
+236	1934	0.226408	0.226408	4	FALSE	None	None	13.3	http://en.wikipedia.org/wiki/The_Thin_Man_(film)	The Thin Man	1934-nm-TheThinMan.jpg
+235	1934	None	None	5	FALSE	None	None	13.3	http://en.wikipedia.org/wiki/The_House_of_Rothschild	The House of Rothschild	1934-nm-TheHouseofRothschild.jpg
+232	1934	None	None	6	FALSE	None	None	13.3	http://en.wikipedia.org/wiki/Flirtation_Walk	Flirtation Walk	1934-nm-FlirtationWalk.jpg
+234	1934	None	None	7	FALSE	None	None	13.3	http://en.wikipedia.org/wiki/Here_Comes_the_Navy	Here Comes the Navy	1934-nm-HereComestheNavy.jpg
+434	1934	None	None	8	FALSE	None	None	13.3	http://en.wikipedia.org/wiki/Imitation_of_Life_(1934_film)	Imitation of Life	1934-nm-ImitationofLife.jpg
+436	1934	1	1	11	FALSE	ERR original Italian lobby card	ERR original Italian lobby card	13.3	http://en.wikipedia.org/wiki/Viva_Villa!	Viva Villa!	1934-nm-VivaVilla.jpg
+435	1934	None	None	10	FALSE	ERR Theatrical release poster	ERR Theatrical release poster	13.3	http://en.wikipedia.org/wiki/One_Night_of_Love	One Night of Love	1934-nm-OneNightofLove.jpg
+433	1934	0.325	0.325	0	TRUE	ERR  2.5  2.0(theatrical rentals)	ERR  2.5  2.0(theatrical rentals)	13.3	http://en.wikipedia.org/wiki/It_Happened_One_Night	It Happened One Night	1934-gp-ItHappenedOneNight.jpg
+207	1934	None	None	9	FALSE	ERR 	ERR 	13.3	http://en.wikipedia.org/wiki/The_White_Parade	The White Parade	1934-nm-TheWhiteParade.jpg
+206	1934	0.82	0.82	1	FALSE	ERR  1.258 (Domestic earnings)  1.085 (Foreign earnings) 	2.343	13.3	http://en.wikipedia.org/wiki/The_Barretts_of_Wimpole_Street_(1934_film)	The Barretts of Wimpole Street	1934-nm-TheBarrettsofWimpoleStreet.jpg
+233	1934	0.52	0.52	2	FALSE	1.774	1.774	13.3	http://en.wikipedia.org/wiki/The_Gay_Divorcee	The Gay Divorcee	1934-nm-TheGayDivorcee.jpg
+229	1932	0.3	0.3	5	FALSE	None	None	13.1	http://en.wikipedia.org/wiki/Lady_for_a_Day	Lady for a Day	1932-nm-LadyforaDay.jpg
+228	1932	None	None	6	FALSE	None	None	13.1	http://en.wikipedia.org/wiki/I_Am_a_Fugitive_from_a_Chain_Gang	I Am a Fugitive from a Chain Gang	1932-nm-IAmaFugitivefromaChainGang.jpg
+428	1932	0.9	0.9	7	FALSE	None	None	13.1	http://en.wikipedia.org/wiki/A_Farewell_to_Arms_(1932_film)	A Farewell to Arms	1932-nm-AFarewelltoArms.jpg
+431	1932	ERR £65000 	ERR £65000 	9	FALSE	ERR £0.75 	ERR £0.75 	13.1	http://en.wikipedia.org/wiki/The_Private_Life_of_Henry_VIII	The Private Life of Henry VIII	1932-nm-ThePrivateLifeofHenryVIII.jpg
+430	1932	0.424	0.424	8	FALSE	ERR Theatrical release poster	ERR Theatrical release poster	13.1	http://en.wikipedia.org/wiki/Little_Women_(1933_film)	Little Women	1932-nm-LittleWomen.jpg
+427	1932	1.18028	1.18028	0	TRUE	3.5	3.5	13.1	http://en.wikipedia.org/wiki/Cavalcade_(1933_film)	Cavalcade	1932-gp-Cavalcade.jpg
+429	1932	0.439	0.439	1	FALSE	2.25	2.25	13.1	http://en.wikipedia.org/wiki/42nd_Street_(film)	42nd Street	1932-nm-42ndStreet.jpg
+205	1932	0.2	0.2	2	FALSE	2.2	2.2	13.1	http://en.wikipedia.org/wiki/She_Done_Him_Wrong	She Done Him Wrong	1932-nm-SheDoneHimWrong.jpg
+432	1932	0.851	0.851	3	FALSE	ERR  1.004 (Domestic earnings)  1.029 (Foreign earnings) 	2.033	13.1	http://en.wikipedia.org/wiki/Smilin%27_Through_(1932_film)	Smilin' Through	1932-nm-SmilinThrough.jpg
+230	1932	0.6	0.6	4	FALSE	1.8	1.8	13.1	http://en.wikipedia.org/wiki/State_Fair_(1933_film)	State Fair	1932-nm-StateFair.jpg
+226	1931	None	None	1	FALSE	None	None	15.5	http://en.wikipedia.org/wiki/One_Hour_with_You	One Hour with You	1931-nm-OneHourwithYou.jpg
+224	1931	None	None	2	FALSE	None	None	15.5	http://en.wikipedia.org/wiki/Bad_Girl_(1931_film)	Bad Girl	1931-nm-BadGirl.jpg
+223	1931	None	None	3	FALSE	None	None	15.5	http://en.wikipedia.org/wiki/Arrowsmith_(film)	Arrowsmith	1931-nm-Arrowsmith.jpg
+368	1931	None	None	4	FALSE	None	None	15.5	http://en.wikipedia.org/wiki/Shanghai_Express_(film)	Shanghai Express	1931-nm-ShanghaiExpress.jpg
+225	1931	None	None	5	FALSE	None	None	15.5	http://en.wikipedia.org/wiki/Five_Star_Final	Five Star Final	1931-nm-FiveStarFinal.jpg
+227	1931	None	None	6	FALSE	None	None	15.5	http://en.wikipedia.org/wiki/The_Smiling_Lieutenant	The Smiling Lieutenant	1931-nm-TheSmilingLieutenant.jpg
+426	1931	None	None	7	FALSE	None	None	15.5	http://en.wikipedia.org/wiki/The_Champ_(1931_film)	The Champ	1931-nm-TheChamp.jpg
+425	1931	0.75	0.75	0	TRUE	2.25	2.25	15.5	http://en.wikipedia.org/wiki/Grand_Hotel_(film)	Grand Hotel	1931-gp-GrandHotel.jpg
+204	1930	None	None	1	FALSE	None	None	17.0	http://en.wikipedia.org/wiki/Skippy_(1931_film)	Skippy	1930-nm-Skippy.jpg
+403	1930	None	None	2	FALSE	None	None	17.0	http://en.wikipedia.org/wiki/East_Lynne_(1931_film)	East Lynne	1930-nm-EastLynne.jpg
+493	1930	None	None	3	FALSE	None	None	17.0	http://en.wikipedia.org/wiki/Trader_Horn_(1931_film)	Trader Horn	1930-nm-TraderHorn.jpg
+424	1930	None	None	4	FALSE	None	None	17.0	http://en.wikipedia.org/wiki/The_Front_Page_(1931_film)	The Front Page	1930-nm-TheFrontPage.jpg
+423	1930	1.433	1.433	0	TRUE	1.383	1.383	17.0	http://en.wikipedia.org/wiki/Cimarron_(1931_film)	Cimarron	1930-gp-Cimarron.jpg
+421	1929	None	None	1	FALSE	None	None	17.3	http://en.wikipedia.org/wiki/The_Divorcee	The Divorcee	1929-nm-TheDivorcee.jpg
+422	1929	None	None	2	FALSE	None	None	17.3	http://en.wikipedia.org/wiki/The_Love_Parade	The Love Parade	1929-nm-TheLoveParade.jpg
+420	1929	None	None	3	FALSE	None	None	17.3	http://en.wikipedia.org/wiki/Disraeli_(1929_film)	Disraeli	1929-nm-Disraeli.jpg
+419	1929	None	None	4	FALSE	None	None	17.3	http://en.wikipedia.org/wiki/The_Big_House_(1930_film)	The Big House	1929-nm-TheBigHouse.jpg
+418	1929	1.2	1.2	0	TRUE	ERR  3.0 (rentals)	ERR  3.0 (rentals)	17.3	http://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(1930_film)	All Quiet on the Western Front	1929-gp-AllQuietontheWesternFront.jpg
+219	1928	None	None	1	FALSE	None	None	17.1	http://en.wikipedia.org/wiki/In_Old_Arizona	In Old Arizona	1928-nm-InOldArizona.jpg
+402	1928	None	None	2	FALSE	None	None	17.1	http://en.wikipedia.org/wiki/Alibi_(1929_film)	Alibi	1928-nm-Alibi.jpg
+416	1928	0.426	0.426	3	FALSE	None	None	17.1	http://en.wikipedia.org/wiki/The_Hollywood_Revue_of_1929	Hollywood Revue	1928-nm-HollywoodRevue.jpg
+417	1928	1	1	4	FALSE	None	None	17.1	http://en.wikipedia.org/wiki/The_Patriot_(1928_film)	The Patriot	1928-nm-ThePatriot.jpg
+415	1928	None	None	0	TRUE	3	3	17.1	http://en.wikipedia.org/wiki/The_Broadway_Melody	The Broadway Melody	1928-gp-TheBroadwayMelody.jpg
+412	1927	ERR US 2 million  	ERR US 2 million  	0	TRUE	None	None	17.3	http://en.wikipedia.org/wiki/Wings_(film)	Wings	1927-gp-Wings.jpg
+413	1927	None	None	2	FALSE	None	None	17.3	http://en.wikipedia.org/wiki/The_Racket_(1928_film)	The Racket	1927-nm-TheRacket.jpg
+414	1927	None	None	1	FALSE	1.75	1.75	17.3	http://en.wikipedia.org/wiki/Seventh_Heaven_(1927_film)	Seventh Heaven	1927-nm-SeventhHeaven.jpg
