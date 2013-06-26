@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Winners and nominees of Academy Award for Best Picture</title>
+        <link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
+        <style>
+            body {background:#EFEFEF;
+                font-family: 'Crimson Text', serif;
+                font-weight: 400;
+            }
+            a { text-decoration:none;
+                color:#39c;}
+            .poster, circle {cursor:pointer;}
+            h1, h2 {
+                letter-spacing:-1px;
+                margin:60px 60px 0px 60px;
+                font-size: 50px;
+                font-weight:400;
+                line-height:1.0;
+                margin-bottom: 1.0em;
+            }
+            text {
+                font-size:16px;
+            }
+            text.year-label{
+                letter-spacing:2px;
+                font-size:42px;
+                font-weight:bold;
+                dominant-baseline:central;
+            }
+            .help-block{
+                dominant-baseline:central;
+                color:#666;
+                margin:10px 0px 50px 60px;
+                line-height:1.3;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Winners and nominees <br/>of Academy Award for Best Picture</h1>
+        <div class="container">
+            <div class="help-block">
+                <svg width=1200 height=60>
+                <circle r="20" cy="30" cx="50" fill="red" style="opacity: 0.5;"/>
+                <circle r="30" cy="30" cx="30" fill="#39c" style="opacity: 0.5;"/>
+                <text y="32" x="70" fill="#666" style="font-size:16px;">
+                .............. Size of the Budget
+                </text>
+                <text y="58" x="40" fill="#666" style="font-size:16px;">
+
+                ................. Size of the Box office   ($ million) adjusted for inflation
+
+                </text>
+                </svg>
+                <p/>
+                source <br/>
+                <a href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" target="_blank">
+                    Academy Award for Best Picture</a><br>
+                <a href="http://datahub.io/en/dataset/us-consumer-price-index/resource/27e14656-ba2a-4b81-855d-0f167809d87d" target="_blank">
+                    US Consumer Price Index (CPI) / All Urban Consumer
+                </a>
+                <br/>e-mail yamakk at gmail.com
+            </div>
+            <div class="graph"></div>
+            <span class="help-block"></span>
+        </div>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2440573-1']);
+            _gaq.push(['_setDomainName', 'yamakk.com']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+             })();
+         </script>
+     </body>
+     <script src="js/d3/d3.min.js"></script>
+     <script src="js/coffee-script.js"></script>
+     <script type="text/coffeescript" src="visualize.coffee"></script>
+ </html>
